@@ -1,0 +1,56 @@
+# V1 Stormcast 1K
+
+10 Liberators (224)
+- 10 Infantry (50)
+- 10 Regular Training (30)
+- 10 Hardy (40)
+- 9 Large Shields (27)
+- 10 Armor (20)
+- 9 Maces (27)
+- Champion (25)
+	- Greatmace (5)
+
+10 Liberators (235)
+- 10 Infantry (50)
+- 10 Regular Training (30)
+- 10 Hardy (40)
+- 9 Large Shields (27)
+- 10 Armor (20)
+- 9 Swords (36)
+- Champion (25)
+	- Longsword (7)
+
+10 Judicators (180)
+- 10 Infantry (50)
+- 10 Regular Training (30)
+- 10 Hardy (40)
+- 10 Swords - Sidearm (40)
+- 10 Longbows (20)
+
+4 Concussors (132)
+- 4 Cavalry (40)
+- 4 Elite Training (32)
+- 4 Beefy (28)
+- 4 Armor (8)
+- 4 Large Shields (12)
+- 4 Maces (12)
+
+5 Vanguard-Hunters (135)
+- 5 Infantry (25)
+- 5 Regular Training (15)
+- 5 Hardy (20)
+- 5 Armor (10)
+- 5 Pistols (20)
+- 5 Swords (20)
+- Flanking (25)
+
+4 Prosecutors (85)
+- 4 Infantry (20)
+- 4 Regular Training (12)
+- 4 Hardy (16)
+- 4 Armor (8)
+- 4 Javelins (4)
+- Fast (25) 
+
+TOTAL: 235 + 224 + 180 + 132 + 135 + 85 = 991
+
