@@ -53,17 +53,15 @@ If no charge was made, instead the activated unit Fights first and all enemy uni
 
 ### Battleshock Phase
 
-Any units that suffered casualties in this activation must make a Battleshock Test.
+The activated unit and enemy units that suffered casualties in this activation or are within 3" of the activated unit must make a Battleshock Test.
 
-To make a Battleshock Test, roll 2D6 and compare the result to the unit's Bravery. If the result is lower, nothing happens. If it's higher, the unit Breaks and is Broken for the rest of the battle (no further Battleshock Tests will be made for it). Broken units have -1 to Hit and to Save, and may not Charge.
+To make a Battleshock Test, roll 2D6 and add the unit's Bravery to the roll, subtracting the number of casualties suffered.
+
+Any results lower than the activated unit cause that unit to lose models equal to the difference.
 
 Apply the following modifiers to the unit's Bravery for this roll:
 
 - Unit has an Officer: +2 Bravery
-- Unit has less than half its original models: -1 Bravery
-- Unit has less than a quarter its original models: -3 Bravery
-- Unit is within 3" of more than 1 enemy unit: -1 Bravery per aditional enemy unit beyond the first.
-- Unit is within 10" of a friendly enemy unit: +1 Bravery
 
 ## Basic Units
 
