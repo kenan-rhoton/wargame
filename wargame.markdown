@@ -118,7 +118,7 @@ All models in a unit must take the same weapon, equipmet and unit options, excep
 - Handcannons (6): 2H/16"/-1/+3/Double-hits,No overwatch
 - Repeater Gun (9): 2H/20"/-1/+1/Fires four times
 - Sniper Rifle (10): 2H/24"/+1/+3/Can fire at a specific model
-- Rocket Launcher (15): 2H/20"/-1/+2/A hit causes 2D6 hits. +1 to hit per 5 models in target.
+- Rocket Launcher (15): 2H/20"/-2/+2/A hit causes 2D6 hits. +1 to hit per 5 models in target.
 
 #### Sidearms
 
