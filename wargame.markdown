@@ -27,96 +27,89 @@ This continues until the requirements to end the Scenario are met and the result
 
 When you choose to activate a unit, if it was the same unit you last activated, it becomes fatigued until you activate a different unit.
 
-A fatigued unit has a penalty of -1 for rolls to Hit and Save, as well as half its normal movement, and it cannot Run or Charge.
+A fatigued unit has a penalty of -1 for rolls to Hit and Save, and it cannot Run.
 
 ### Movement Phase
 
 A unit may choose to move up to its move characteristic in any direction, both horizontally and vertically.
 
-A unit may declare it's making a Run, and add 1D6 to its move characteristic, but it may not Shoot, Charge or Fight later in its activation.
+A unit may declare it's making a Run, and add 1D6 to its move characteristic, but it may not Shoot later in its activation.
 
-If a unit that moves began its movement within 3" of an enemy unit, this is called a Retreat move. A unit that retreats cannot Shoot, Charge or Fight later in its activation, but it can Run.
+If a unit that moves began its movement within 3" of an enemy unit, this is called a Retreat move. A unit that retreats cannot Shoot or Fight later in its activation, but it can still Run.
 
-### Charge Phase
+### Shooting Phase
 
-A unit may declare a Charge on any target unit within 12" of it. Once it has done so, roll 2D6 and move the unit that many inches towards that target unit.
-
-If this brings the unit to within 1/2" of the target unit, the charging unit and any enemy units within 3" of it roll 2D6 and add their Bravery to the roll. From the highest to the lowest result will be the order they activate in the Combat Phase (roll off for ties).
-
-If this does not bring the unit to within 1/2" of the target unit, the unit may not Fight in its Combat Phase.
+The activated unit can attack with all its ranged weapons. Each weapon must be directed at a target within range that the model can see.
 
 ### Combat Phase
 
-The activated unit and all enemy units within 3" of it participate in the Combat Phase. If the activated unit made a Charge, and an enemy unit has a higher initiative order than it (or if the activated unit failed the Charge), it may choose to Shoot instead of Fight.
+The activated unit and all enemy units within 3" of it participate in the Combat Phase.
+The activated unit Fights first and all enemy units within 3" Fight after it.
 
-If no charge was made, instead the activated unit Fights first and all enemy units within 3" Fight after it.
+To Fight, first you may move all models in the unit up to 3", so long as they end up closer to the closest enemy unit.
+Then, the unit attacks with all its melee weapons.
 
 ### Battleshock Phase
 
-The activated unit and enemy units that suffered casualties in this activation or are within 3" of the activated unit must make a Battleshock Test.
-
-To make a Battleshock Test, roll 2D6 and add the unit's Bravery to the roll, subtracting the number of casualties suffered.
-
-Any results lower than the activated unit cause that unit to lose models equal to the difference.
-
-Apply the following modifiers to the unit's Bravery for this roll:
-
-- Unit has an Officer: +2 Bravery
+Any units that suffered casualties this activation must make a Battleshock Test. To do so, roll 1D6 and add the number of casualties suffered. If the total is greater than the Bravery characteristic of the unit, a number of models equal to the difference flee. Remove those models.
 
 ## Basic Units
 
 Infantry (5 points)
 
-- Base Size: 25mm
 - Unit Size: 1/40
 - Move: 6"
 - Wounds: 1
 - Hit: 6+
-- Defense: 6+
+- Defense: -
 - Bravery: 4
 
 Cavalry (10 points)
-- Base Size: 50mm
+
 - Unit Size: 1/20
-- Move: 12"
+- Move: 8"
 - Wounds: 2
 - Hit: 6+
-- Defense: 6+
+- Defense: -
 - Bravery: 4
-- Special: Movement penalties are doubled. +2 Bravery on Charge.
+- Special:
+	- Movement penalties are doubled.
+	- May declare a Charge against an enemy within 12" instead of moving. They then move 2D6" directly towards that enemy. 
+	- -2 Enemy Bravery on Charge.
 
 ## Unit Upgrades
 
-All models in a unit must take the same weapon, equipmet and unit options, except for Specialists, which may have different weapons.
+All models in a unit must take the same weapon, equipment and unit options, except for Specialists, Champions and Officers.
 
 ### Weapon Options (Hands/Range/Hit Modifier/Penetration/Special)
 
 #### Melee
 
-- Clubs (0): 1H/1"/-/-/-
-- Quarterstaves (0): 2H/2"/-/-/-
-- Spears (1): 2H/2"/-/+1/Double-hits vs Charging
-- Shortspears (1): 1H/2"/-/-/-
-- Axes (2): 1H/1"/+1/+1/-
-- Maces (3): 1H/1"/+1/+1/If any wounds are dealt, enemy Bravery -1
-- Swords (4): 1H/1"/+1/+1/Double-hits on 6s
-- Poleaxes (5): 2H/2"/+1/+1/-
-- Greatmaces (5): 2H/2"/+1/+2/If any wounds are dealt, enemy Bravery -2
-- Longwords (7): 2H/2"/+1/+2/Double-hits on 6s
+- Club (0): 1H/1"/-/-/-
+- Quarterstaff (0): 2H/2"/-/-/-
+- Spear (1): 2H/2"/-/-1/Double damage vs Charge
+- Shortspear / Javelins (1): 1H/2"/-/-/-
+- Axe (2): 1H/1"/-/-1/-
+- Heavy Javelin (3): 1H/2"/-/-1/-
+- Mace (3): 1H/1"/-/-1/If any wounds are dealt, enemy Bravery -1
+- Sword (4): 1H/1"/+1/-/Double damage on 6s
+- Poleaxe (5): 2H/2"/+1/-1/-
+- Greatmace (5): 2H/2"/-/-1/Damage 2, If any wounds are dealt, enemy Bravery -2
+- Longword (7): 2H/2"/+1/-/Damage 2, double on 6s
 
 #### Ranged
 
-- Javelins (1): 1H/10"/-/-/-
-- Throwing Axes (2): 1H/8"/-1/+1/-
-- Longbows (2): 2H/24"/-/+1/-
-- Heavy Javelins (3): 1H/10"/-/+1/If any wounds happen, enemy Bravery -1
-- Pistols (4): 1H/9"/+1/+1/-
-- Crossbows (4): 2H/12"/+1/+2/No overwatch
-- Rifles (6): 2H/16"/-/+3/Automatic overwatch within 3"
-- Handcannons (6): 2H/16"/-1/+3/Double-hits,No overwatch
-- Repeater Gun (9): 2H/20"/-1/+1/Fires four times
-- Sniper Rifle (10): 2H/24"/+1/+3/Can fire at a specific model
-- Rocket Launcher (15): 2H/20"/-2/+2/A hit causes 2D6 hits. +1 to hit per 5 models in target.
+- Javelin (1): 1H/10"/-/-/-
+- Throwing Axe (2): 1H/8"/-1/-1/-
+- Longbow (2): 2H/24"/-/-/-
+- Heavy Javelin (3): 1H/10"/-/-1/If any wounds happen, enemy Bravery -1
+- Crossbow (4): 2H/12"/+1/-1/-
+- Pistol (6): 1H/10"/-/-2/Damage 2
+- Rifle (8): 2H/16"/-/-3/Damage 2, Overwatch
+- Repeater Gun (9): 2H/20"/-1/-1/Fires four times
+- Handcannon (10): 2H/16"/-1/-3/Damage 4
+- Sniper Rifle (12): 2H/24"/+1/-2/Damage 3, can fire at a specific model. Rend -5 on a 6.
+- Rocket Launcher (15): 2H/20"/-2/-2/2D6 Damage. +1 to hit per 5 models in target.
 
 #### Sidearms
 
@@ -126,21 +119,22 @@ All models in a unit must take the same weapon, equipmet and unit options, excep
 
 ### Attribute Options
 
-- Regular Training (3): +1 Hit, +2 Bravery, Max Unit Size 40
-- Elite Training (8): +2 Hit, +4 Bravery, Max Unit Size 30
-- Hardy (4): +1 Wound, Base Size 32mm
-- Beefy (7): +2 Wounds, Base Size 40mm
-
-### Unit Options
-- Fast (25): +6" Move
-- Flanking (25): Deploy within 6" of any edge, more than 9" from enemies.
-- Stealth Flanking (50): Deploy within 6" of any edge, more than 6" from enemies.
-- Infiltrating (50): Deploy more than 9" from enemies.
+- Regular Training (3): +1 Hit, +1 Bravery, Max Unit Size 40
+- Elite Training (8): +2 Hit, +2 Bravery, Max Unit Size 30
+- Legendary Training (50): +3 Hit, Double Damage, +4 Bravery, Max Unit Size 5
+- Hardy (4): +1 Wound
+- Beefy (7): +2 Wounds
+- Mighty (4): +1 Melee Damage
+- Brutal (9): +2 Melee Damage
+- Fast (3): +6" Move
+- Flanking (3): Deploy within 6" of any edge, more than 9" from enemies.
+- Stealth Flanking (7): Deploy within 6" of any edge, more than 6" from enemies
+- Infiltrating (7): Deploy more than 9" from enemies.
 
 ### Equipment Options
 
 - Shields (1): +1 Defense. 1H.
-- Large Shields (3): +1 Defense, +1 Additional vs Ranged. 1H.
+- Large Shields (3): +1 Defense, gain the Raise Shields Tactic. 1H.
 - Armor (2): +1 Defense, -1" Move
 - Heavy Armor (4): +2 Defense, -2" Move
 
@@ -151,15 +145,15 @@ You may only take one Officer per Unit.
 - Bannerman (10): +1 Bravery when Charged. Max 1 for every 10.
 - Musician (10): +1 to Run and Charge. Max 1 for every 10.
 - Specialist (5): Can take different weapon options.
-- Champion (25): +1 Hit and Attacks twice. Max 1 for every 5.
-- Officer - Captain (20): Can use a Command ability on his unit
-- Officer - General (30): Can use a Command ability on units wholly within 18"
+- Champion (25): +1 Hit and Attacks twice. Max 1 per unit.
+- Officer - Tactician (20): Gain a Command Point when you activate this unit.
+- Officer - Captain (20): Choose one Tactic for this unit.
+- Officer - General (30): Choose two Tactics for this unit. Max 1 per army.
 
 ## Basic Colossus
 
 Colossus (100 points)
 
-- Base Size: 100mm
 - Unit Size: 1
 - Move: 6"
 - Wounds: 10
