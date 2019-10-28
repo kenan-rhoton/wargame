@@ -20,7 +20,7 @@ This list attempts to represent a modern commando team.
 
 - Move: 12"
 - Wounds: 1
-- Defense: 2+ (5+ vs Ranged)
+- Defense: 3+ (6+ vs Ranged)
 - Bravery: 6
 
 Weapons:
@@ -49,7 +49,7 @@ Special:
 
 - Move: 12"
 - Wounds: 1
-- Defense: 2+ (5+ vs Ranged)
+- Defense: 3+ (6+ vs Ranged)
 - Bravery: 6
 
 Weapons:
@@ -75,7 +75,7 @@ Special:
 
 - Move: 12"
 - Wounds: 1
-- Defense: 2+ (5+ vs Ranged)
+- Defense: 3+ (6+ vs Ranged)
 - Bravery: 6
 
 Weapons:
@@ -103,7 +103,7 @@ Special:
 
 - Move: 12"
 - Wounds: 2
-- Defense: 2+ (5+ vs Ranged)
+- Defense: 3+ (6+ vs Ranged)
 - Bravery: 6
 
 Weapons:
@@ -131,7 +131,7 @@ Special:
 
 - Move: 12"
 - Wounds: 2
-- Defense: 2+ (5+ vs Ranged)
+- Defense: 3+ (6+ vs Ranged)
 - Bravery: 6
 
 Weapons:

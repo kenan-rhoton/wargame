@@ -81,7 +81,7 @@ Infantry (5 points)
 - Move: 6"
 - Wounds: 1
 - Hit: 6+
-- Defense: 1+
+- Defense: 2+
 - Bravery: 4
 
 Cavalry (10 points)
@@ -90,7 +90,7 @@ Cavalry (10 points)
 - Move: 8"
 - Wounds: 2
 - Hit: 6+
-- Defense: 1+
+- Defense: 2+
 - Bravery: 4
 - Special:
 	- Movement penalties are doubled.
@@ -131,7 +131,7 @@ All models in a unit must take the same weapon, equipment and unit options, exce
 - Repeater Gun (11): 2H/20"/-1/-1/Damage 2, Fires four times
 - Handcannon (12): 2H/16"/-1/-3/Damage 4
 - Frag Grenades (13): 1H/10"/-/-2/Damage 1D6. Target Ground, 5" Radius.
-- Sniper Rifle (14): 2H/24"/-/-2/Damage 3, can fire at a specific model. Rend -5 on a 6. +1 to hit at more than 12" if didn't move.
+- Sniper Rifle (14): 2H/24"/-/-3/Damage 3, can fire at a specific model. Rend -5 on a 6. +1 to hit at more than 12" if didn't move.
 - Assault Rifle (15): 2H/16"/-/-3/Damage 2, Assault (Can Run and Shoot)
 - Rocket Launcher (17): 2H/20"/-2/-3/2D6 Damage. +1 to hit per 5 models in target. +2 to hit vs Colossus.
 
@@ -159,6 +159,7 @@ All models in a unit must take the same weapon, equipment and unit options, exce
 - Heavy Armor (4): +2 Defense, -2" Move
 - Kevlar (10): +1 Defense. +3 Additional Ranged Defense.
 - Minelayer (15): Can drop a mine within 3", which can be detonated when an enemy moves within 3" of it, hitting any units within 3" with a Damage 1D6, -3 Penetration attack.
+- Precision Visor (30): If this unit doesn't move, enemy units it Shoots at are not considered to be in Cover.
 
 ### Command Options
 
