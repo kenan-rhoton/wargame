@@ -1,5 +1,9 @@
 # Wargame, version 2
 
+[Current version](wargame.markdown)
+
+[Version 2 Sample Lists](ListsV2)
+
 ## Version 2, "A time for war"
 
 **Goals**:
