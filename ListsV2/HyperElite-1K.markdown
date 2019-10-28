@@ -1,5 +1,7 @@
 # Hyper Elite 1K
 
+This list is an edge case attempt of the strategy of attempting to have very small and extremely optimized units.
+
 ## The Pack (362)
 
 - 6 Cavalry (60)

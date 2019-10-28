@@ -1,5 +1,7 @@
 # Hordes 1K
 
+This list is an edge case attempt of the strategy of simply swarming with as many bodies as possible.
+
 ## Objective Swarm (300)
 
 - 40 Infantry (200)

@@ -110,9 +110,8 @@ All models in a unit must take the same weapon, equipment and unit options, exce
 - Spear (1): 2H/2"/-/-1/-
 - Shortspear (1): 1H/2"/-/-/-
 - Daggers (1): 1H/1"/+1/-/Sidearm
-- Bayonets (2): 2H/2"/+1/-/Sidearm
+- Bayonets (2): 2H/2"/+1/-/Sidearm. Affixed to ranged weapon.
 - Axe (2): 1H/1"/-/-1/-
-- Heavy Javelin (3): 1H/2"/-/-1/-
 - Poleaxe (3): 2H/2"/-/-1/-
 - Mace (3): 1H/1"/-/-1/If any wounds are dealt, enemy Bravery -1
 - Sword (4): 1H/1"/+1/-/Double damage on 6s. Sidearm.
@@ -122,15 +121,16 @@ All models in a unit must take the same weapon, equipment and unit options, exce
 
 #### Ranged
 
-- Javelin (1): 1H/10" (1")/-/-/-
+- Javelin (1): 1H/10"/-/-/-
 - Throwing Axe (2): 1H/8" (1")/-1/-1/-
 - Longbow (2): 2H/24"/-/-/-
-- Heavy Javelin (3): 1H/10" (1")/-/-1/If any wounds happen, enemy Bravery -1
+- Heavy Javelin (3): 1H/10"/-/-1/If any wounds happen, enemy Bravery -1
 - Crossbow (4): 2H/12"/+1/-/6s to Hit have Rend -2 and Damage 2.
 - Pistol (8): 1H/10"/-/-2/Damage 2
 - Rifle (10): 2H/16"/-/-3/Damage 2, Overwatch
 - Repeater Gun (11): 2H/20"/-1/-1/Damage 2, Fires four times
 - Handcannon (12): 2H/16"/-1/-3/Damage 4
+- Frag Grenades (13): 1H/10"/-/-2/Damage 1D6. Target Ground, 5" Radius.
 - Sniper Rifle (14): 2H/24"/-/-2/Damage 3, can fire at a specific model. Rend -5 on a 6. +1 to hit at more than 12" if didn't move.
 - Assault Rifle (15): 2H/16"/-/-3/Damage 2, Assault (Can Run and Shoot)
 - Rocket Launcher (17): 2H/20"/-2/-3/2D6 Damage. +1 to hit per 5 models in target. +2 to hit vs Colossus.
@@ -140,17 +140,13 @@ All models in a unit must take the same weapon, equipment and unit options, exce
 - Regular Training (3): +1 Hit, +1 Bravery, Max Unit Size 30
 - Elite Training (8): +2 Hit, +2 Bravery, Max Unit Size 20
 - Legendary Training (25): +3 Hit, Double Damage, +4 Bravery, Max Unit Size 5
-
 - Hardy (4): +1 Wound
 - Beefy (7): +2 Wounds
-
 - Mighty (4): +1 Melee Damage
 - Brutal (9): +2 Melee Damage
-
 - Fast (3): +6" Move
 - Camouflage (10): -1 to be hit by Shooting when in Cover.
 - Mimetism (15): -1 to be hit by Shooting. Additional -1 when in Cover.
-
 - Flanking (3): Deploy within 6" of any edge, more than 6" from enemies.
 - Stealth Flanking (7): Deploy within 6" of any edge.
 - Infiltrating (7): Deploy more than 6" from enemies.
@@ -161,7 +157,8 @@ All models in a unit must take the same weapon, equipment and unit options, exce
 - Armor (2): +1 Defense, -1" Move
 - Large Shields (3): +1 Defense, additional +1 when not within 3" of enemy. 1H.
 - Heavy Armor (4): +2 Defense, -2" Move
-- Kevlar (10): +1 Defense. +3 Ranged Defense.
+- Kevlar (10): +1 Defense. +3 Additional Ranged Defense.
+- Minelayer (15): Can drop a mine within 3", which can be detonated when an enemy moves within 3" of it, hitting any units within 3" with a Damage 1D6, -3 Penetration attack.
 
 ### Command Options
 

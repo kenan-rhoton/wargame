@@ -1,5 +1,7 @@
 # Renaissance 1K
 
+This list attempts to represent a rennaissance era platoon.
+
 ## First Company (460)
 
 - 20 Infantry (100)

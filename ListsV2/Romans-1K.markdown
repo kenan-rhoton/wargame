@@ -1,5 +1,7 @@
 # Romans 1K
 
+This list attempts to represent a roman era Legion.
+
 ## Legio (420)
 
 - 20 Infantry (100)

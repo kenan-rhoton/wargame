@@ -1,5 +1,7 @@
 # Knights 1K
 
+This list is an edge case attempt of the strategy of just bringing Colossus type units (like a Mecha-type army)
+
 ## Crash (320)
 
 - Colossus (100)
