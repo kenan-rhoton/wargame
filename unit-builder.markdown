@@ -147,10 +147,9 @@ Colossus (100 points)
 
 ## Command Tactics
 
-- Inspiring Presence: Any Bravery Phase. +4 Bravery.
+- Inspiring Presence: Any Bravery Phase. Only Infantry or Cavalry. +4 Bravery.
 - All-Out Attack: Any Combat Phase. Reroll any hit rolls.
 - Volley Fire: Shooting Phase. Reroll any hit rolls.
 - Shieldwall: Enemy Shooting Phase. Requires Large Shields or better. Soak 2.
 - Earthshatter: After ending a Run less than 1" from Enemy. Enemies within 3" take 2 Damage.
 - Fearsome Roar: Bravery Phase. Enemies within 3" receive -2 Bravery.
-
