@@ -1,6 +1,8 @@
 # Wargame, version 2
 
-[Current version](wargame.markdown)
+[Current version](rules.markdown)
+
+[Unit Builder](unit-builder.markdown)
 
 [Version 2 Sample Lists](ListsV2/index.md)
 
