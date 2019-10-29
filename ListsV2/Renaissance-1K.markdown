@@ -36,7 +36,7 @@ Tactics:
 
 ### Profile
 
-- Move: 6"
+- Move: 8"
 - Wounds: 2
 - Save: 2+
 - Bravery: 6
@@ -60,7 +60,7 @@ Tactics:
 
 ### Profile
 
-- Move: 6"
+- Move: 8"
 - Wounds: 2
 - Save: 2+
 - Bravery: 6

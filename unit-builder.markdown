@@ -20,7 +20,6 @@ Cavalry (10 points)
 - Defense: 2+
 - Bravery: 4
 - Special:
-	- Movement penalties are doubled.
 	- May declare a Charge against an enemy within 12" instead of moving. They then move 2D6" directly towards that enemy. 
 	- -2 Enemy Bravery on Charge.
 

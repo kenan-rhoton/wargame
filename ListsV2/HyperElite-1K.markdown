@@ -17,7 +17,7 @@ This list is an edge case attempt of the strategy of attempting to have very sma
 
 ### Profile
 
-- Move: 14"
+- Move: 12"
 - Wounds: 4
 - Defense: 5+ (6+ out of combat)
 - Bravery: 7
@@ -83,7 +83,7 @@ Special:
 
 ### Profile
 
-- Move: 14"
+- Move: 12"
 - Wounds: 4
 - Defense: 5+ (6+ out of combat)
 - Bravery: 6

@@ -18,7 +18,7 @@ This list is an edge case attempt of the strategy of bringing the minimum viable
 
 ### Profile
 
-- Move: 10"
+- Move: 7"
 - Wounds: 3
 - Save: 4+ (5+ out of combat)
 - Bravery: 7
