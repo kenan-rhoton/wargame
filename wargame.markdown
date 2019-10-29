@@ -121,10 +121,10 @@ All models in a unit must take the same weapon, equipment and unit options, exce
 
 #### Ranged
 
-- Javelin (1): 1H/10"/-/-/-
+- Javelin (1): 1H/10"/-/-/Combat Ready.
 - Throwing Axe (2): 1H/8" (1")/-1/-1/-
 - Longbow (2): 2H/24"/-/-/-
-- Heavy Javelin (3): 1H/10"/-/-1/If any wounds happen, enemy Bravery -1
+- Heavy Javelin (3): 1H/10"/-/-1/If any wounds happen, enemy Bravery -1. Combat Ready.
 - Crossbow (4): 2H/12"/+1/-/6s to Hit have Rend -2 and Damage 2.
 - Pistol (8): 1H/10"/-/-2/Damage 2
 - Rifle (10): 2H/16"/-/-3/Damage 2, Overwatch

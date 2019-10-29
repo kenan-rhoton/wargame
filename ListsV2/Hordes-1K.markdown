@@ -14,7 +14,7 @@ This list is an edge case attempt of the strategy of simply swarming with as man
 - Move: 6"
 - Wounds: 1
 - Defense: 3+
-- Bravery: 6
+- Bravery: 5
 
 Weapons:
 
@@ -35,7 +35,7 @@ Tactics:
 - Move: 6"
 - Wounds: 1
 - Defense: 2+
-- Bravery: 6
+- Bravery: 5
 
 Weapons:
 
@@ -56,7 +56,7 @@ Tactics:
 - Move: 6"
 - Wounds: 1
 - Defense: 2+
-- Bravery: 6
+- Bravery: 5
 
 Weapons:
 
@@ -80,7 +80,7 @@ Tactics:
 - Move: 6"
 - Wounds: 1
 - Defense: 4+ (5+ out of combat)
-- Bravery: 6
+- Bravery: 7
 
 Weapons:
 
@@ -89,5 +89,7 @@ Weapons:
 Special:
 
 - Tactician: +1 Tactic Point when activated.
+- Mimetism: Enemies subtract 1 from Hit rolls when Shooting at this Unit. Subtract an additional 1 while it is in Cover.
+- Stealth Flanking: This unit can deploy anywhere within 6" of the edge of the board.
 
 TOTAL = 300 + 260 + 300 + 140 = 1000

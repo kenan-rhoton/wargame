@@ -14,7 +14,7 @@ This list is an edge case attempt of the strategy of just bringing Colossus type
 
 ### Profile
 
-- Move: 10"
+- Move: 11"
 - Wounds: 8
 - Save: 7+
 - Bravery: -
@@ -37,6 +37,23 @@ Tactics:
 - Missile Launcher (60)
 - Tactic: Volley Fire
 
+### Profile
+
+- Move: 6"
+- Wounds: 8
+- Save: 6+
+- Bravery: -
+
+Weapons:
+
+- Missile Launcher: 24"/3+/-3/Damage 2. Multi-attack 5.
+- Flamethrower: 12"/2+/-1/One attack per model from unit in range.
+- Crushing Bulk: 1"/-/-1/Multi-attack 5
+
+Tactics:
+
+- Volley Fire: Shooting Phase. Reroll any rolls to Hit.
+
 ## Ruin (330)
 
 - Colossus (100)
@@ -46,5 +63,25 @@ Tactics:
 - Crushing Bulk (0)
 - Destructive Fists (20)
 - Tactic: Fearsome Roar
+
+### Profile
+
+- Move: 6"
+- Wounds: 8
+- Save: 7+
+- Bravery: -
+
+Weapons:
+
+- Crushing Bulk: 1"/-/-1/Multi-attack 5
+- Destructive Fists: 2"/2+/-2/Damage 5. Double damage vs 20+ models.
+
+Special:
+
+- Kinetic Shield: Soak 2
+
+Tactics:
+
+- Fearsome Roar: Bravery Phase. Enemies within 3" receive -2 Bravery.
 
 TOTAL = 320 + 350 + 330 = 1000
