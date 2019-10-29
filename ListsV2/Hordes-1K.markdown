@@ -89,7 +89,5 @@ Weapons:
 Special:
 
 - Tactician: +1 Tactic Point when activated.
-- Mimetism: Enemies subtract 1 from Hit rolls when Shooting at this Unit. Subtract an additional 1 while it is in Cover.
-- Stealth Flanking: This unit can deploy anywhere within 6" of the edge of the board.
 
 TOTAL = 300 + 260 + 300 + 140 = 1000

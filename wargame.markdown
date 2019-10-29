@@ -110,7 +110,7 @@ All models in a unit must take the same weapon, equipment and unit options, exce
 - Spear (1): 2H/2"/-/-1/-
 - Shortspear (1): 1H/2"/-/-/-
 - Daggers (1): 1H/1"/+1/-/Sidearm
-- Bayonets (2): 2H/2"/+1/-/Sidearm. Affixed to ranged weapon.
+- Bayonets (2): 2H/2"/+1/-/Sidearm. Built-in.
 - Axe (2): 1H/1"/-/-1/-
 - Poleaxe (3): 2H/2"/-/-1/-
 - Mace (3): 1H/1"/-/-1/If any wounds are dealt, enemy Bravery -1
