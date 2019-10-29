@@ -83,7 +83,7 @@ Special:
 
 ### Profile
 
-- Move: 7"
+- Move: 6"
 - Wounds: 2
 - Save: 4+
 - Bravery: 4
