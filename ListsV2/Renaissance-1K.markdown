@@ -36,7 +36,7 @@ Tactics:
 
 ### Profile
 
-- Move: 8"
+- Move: 10"
 - Wounds: 2
 - Save: 2+
 - Bravery: 6
@@ -44,7 +44,7 @@ Tactics:
 Weapons:
 
 - Rifle: 16"/5+/-3/Damage 2. Overwatch.
-- Swords: 1"/4/-/Sidearm. Double damage on 6s.
+- Swords: 1"/4+/-/Damage 2. Sidearm.
 
 Tactics:
 
@@ -60,7 +60,7 @@ Tactics:
 
 ### Profile
 
-- Move: 8"
+- Move: 10"
 - Wounds: 2
 - Save: 2+
 - Bravery: 6
@@ -68,7 +68,7 @@ Tactics:
 Weapons:
 
 - Rifle: 16"/5+/-3/Damage 2. Overwatch.
-- Swords: 1"/4+/-/Sidearm. Double damage on 6s.
+- Swords: 1"/4+/-/Damage 2. Sidearm.
 
 Special:
 
@@ -90,7 +90,7 @@ Special:
 
 Weapons:
 
-- Spears: 2"/6+/-1/-
+- Spears: 2"/6+/-1/Overwatch
 
 Tactics:
 

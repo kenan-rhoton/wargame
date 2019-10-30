@@ -4,7 +4,7 @@
 
 The first thing you do is agree to a Scenario. A Scenario is simply a set of indications that explain all of the following things:
 
-1. What size the battleground will be, usually a 3-feet (90cm) square
+1. What size the battleground will be, usually a 48" by 36" rectangle.
 2. How terrain will be set up
 3. How the units will be deployed
 4. What the victory conditions are
@@ -27,7 +27,7 @@ This continues until the requirements to end the Scenario are met and the result
 
 When you choose to activate a unit, if it was the same unit you last activated, it becomes fatigued until you activate a different unit.
 
-A fatigued unit has a penalty of -1 for rolls to Hit and Save, and it cannot Run.
+A fatigued unit has a penalty of -1 for rolls to Hit and Save.
 
 ### Equipment selection
 
@@ -72,4 +72,3 @@ Then, the unit attacks with all its melee weapons.
 ### Bravery Phase
 
 Any units that suffered casualties this activation must make a Bravery Test. To do so, roll 1D6 and add the number of casualties suffered. If the total is greater than the Bravery characteristic of the unit, a number of models equal to the difference flee. Remove those models.
-

@@ -18,7 +18,7 @@ This list is an edge case attempt of the strategy of bringing the minimum viable
 
 ### Profile
 
-- Move: 6"
+- Move: 8"
 - Wounds: 3
 - Save: 4+ (5+ out of combat)
 - Bravery: 7
@@ -26,7 +26,7 @@ This list is an edge case attempt of the strategy of bringing the minimum viable
 Weapons:
 
 - Pistols: 10"/4+/-2/Damage 2.
-- Sword: 1"/3+/-/Damage 2. Sidearm. Double damage on Hits of 6.
+- Sword: 1"/3+/-/Damage 3. Sidearm.
 
 Special:
 

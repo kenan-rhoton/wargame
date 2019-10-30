@@ -12,6 +12,7 @@
 
 1. Achieve satisfying and balanced combat for a diversity of lists and playstyles
 2. Include Ancient, Medieval, Renaissance, Modern and Sci-fi possibilities from the same building blocks and balanced against each other through costs.
+3. Balance everything at the 1K point mark.
 
 ## Version 1, "Get out there!"
 

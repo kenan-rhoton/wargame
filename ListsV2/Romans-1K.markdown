@@ -21,8 +21,8 @@ This list attempts to represent a roman era Legion.
 
 Weapons:
 
-- Heavy Javelins: 10"/5+/-1/Break 1. Combat Ready.
-- Swords: 2"/4+/-/Sidearm. Double damage on Hits of 6.
+- Heavy Javelins: 10"/5+/-1/Break 1. Assault. Combat Ready.
+- Swords: 2"/4+/-/Damage 2. Sidearm.
 
 Tactics:
 
@@ -83,14 +83,14 @@ Special:
 
 ### Profile
 
-- Move: 6"
+- Move: 8"
 - Wounds: 2
 - Save: 4+
 - Bravery: 4
 
 Weapons:
 
-- Heavy Javelin: 10"/6+/-1/Break 1. Combat Ready.
-- Sword: 1"/5+/-/Sidearm. Double damage on Hits of 6.
+- Heavy Javelin: 10"/6+/-1/Break 1. Assault. Combat Ready.
+- Sword: 1"/5+/-/Damage 2. Sidearm.
 
 TOTAL = 420 + 220 + 260 + 100 = 1000

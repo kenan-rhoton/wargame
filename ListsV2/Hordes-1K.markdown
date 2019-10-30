@@ -39,7 +39,7 @@ Tactics:
 
 Weapons:
 
-- Spears: 2"/6+/-1/-
+- Spears: 2"/6+/-1/Overwatch
 
 Tactics:
 
@@ -84,7 +84,7 @@ Tactics:
 
 Weapons:
 
-- Heavy Javelins: 24"/4+/-1/If any wouds happen, enemy Bravery -1. Combat Ready.
+- Heavy Javelins: 24"/4+/-1/Break 1. Assault. Combat Ready.
 
 Special:
 

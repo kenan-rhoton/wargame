@@ -17,7 +17,7 @@ This list is an edge case attempt of the strategy of attempting to have very sma
 
 ### Profile
 
-- Move: 10"
+- Move: 6"
 - Wounds: 4
 - Defense: 5+ (6+ out of combat)
 - Bravery: 7
@@ -53,10 +53,10 @@ Tactics:
 
 Weapons:
 
-- Sniper Rifle: 24"/4+/-3/Damage 3. Target Model. -5 Penetration on a Hit of 6. +1 to hit at more than 12" if the unit didn't move.
-- Champion's Sniper Rifle: 24"/3+/-3/Damage 3. Target Model. -5 Penetration on a Hit of 6. +1 to hit at more than 12" if the unit didn't move.
-- Longsword: 2"/3+/-/Damage 2, double on a Hit of 6.
-- Champion's Longsword: 2"/2+/-/Damage 2, double on a Hit of 6.
+- Sniper Rifle: 24"/4+/-3/Damage 3. Target Model. -5 Penetration on a Hit of 6.
+- Champion's Sniper Rifle: 24"/3+/-3/Damage 3. Target Model. -5 Penetration on a Hit of 6.
+- Longsword: 2"/3+/-/Damage 3.
+- Champion's Longsword: 2"/2+/-/Damage 3.
 
 Special:
 
@@ -83,7 +83,7 @@ Special:
 
 ### Profile
 
-- Move: 10"
+- Move: 6"
 - Wounds: 4
 - Defense: 5+ (6+ out of combat)
 - Bravery: 6
@@ -91,9 +91,9 @@ Special:
 Weapons:
 
 - Repeater Guns: 20"/4+/-1/Damage 4. Multi-attack 4.
-- Sniper Rifle: 24"/3+/-3/Damage 6. Target Model. -5 Penetration on a Hit of 6. +1 to hit at more than 12" if the unit didn't move.
+- Sniper Rifle: 24"/3+/-3/Damage 6. Target Model. -5 Penetration on a Hit of 6.
 - Champion's Handcannon: 16"/3+/-3/Damage 8
-- Swords: 1"/2+/-/Damage 4, double on a Hit of 6.
+- Swords: 1"/2+/-/Damage 6.
 
 Tactics:
 

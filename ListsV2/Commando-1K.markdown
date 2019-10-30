@@ -18,7 +18,7 @@ This list attempts to represent a modern commando team.
 
 ### Profile
 
-- Move: 12"
+- Move: 10"
 - Wounds: 1
 - Defense: 3+ (6+ vs Ranged)
 - Bravery: 6
@@ -26,13 +26,14 @@ This list attempts to represent a modern commando team.
 Weapons:
 
 - SMG: 20"/5+/-1/Multi-attack 4. Damage 2.
-- Rocket Launcher: 20"/5+/-2/Damage 2D6. +1 to hit per 5 models in target unit. +2 to hit vs Colossus.
+- Champion's Rocket Launcher: 20"/5+/-2/Damage 2D6. +1 to hit per 5 models in target unit. +2 to hit vs Colossus.
+- Champion's Frag Grenades: 10"/3+/-2/Damage 1D6. Target Ground, 5" Radius.
 - Mine: 3"/Auto/-3/Damage 1D6.
-- Frag Grenades: 10"/3+/-2/Damage 1D6. Target Ground, 5" Radius.
 
 Special:
 
 - Camouflage: Enemies subtract 1 from Hit rolls when Shooting at this Unit while it is in Cover.
+- Minelayer: Can drop a mine within 3", which can be detonated when an enemy moves within 3" of it.
 
 ## Sniper Team (141)
 
@@ -47,14 +48,14 @@ Special:
 
 ### Profile
 
-- Move: 12"
+- Move: 10"
 - Wounds: 1
 - Defense: 3+ (6+ vs Ranged)
 - Bravery: 6
 
 Weapons:
 
-- Sniper Rifle: 24"/2+/-3/Damage 3. Target model. -5 Penetration on a hit of 6.
+- Sniper Rifle: 24"/3+/-3/Damage 3. Target Model. -5 Penetration on a hit of 6.
 
 Special:
 
@@ -73,7 +74,7 @@ Special:
 
 ### Profile
 
-- Move: 12"
+- Move: 10"
 - Wounds: 1
 - Defense: 3+ (6+ vs Ranged)
 - Bravery: 6
@@ -101,15 +102,15 @@ Special:
 
 ### Profile
 
-- Move: 12"
+- Move: 10"
 - Wounds: 2
 - Defense: 3+ (6+ vs Ranged)
 - Bravery: 6
 
 Weapons:
 
-- Assault Rifle: 16"/3+/-3/Damage 2. Assault.
-- Frag Grenades: 10"/3+/-2/Damage 1D6. Target Ground, 5" Radius.
+- Assault Rifle: 16"/4+/-3/Damage 2. Assault.
+- Frag Grenades: 10"/4+/-2/Damage 1D6. Target Ground, 5" Radius.
 
 Special:
 
@@ -129,15 +130,15 @@ Special:
 
 ### Profile
 
-- Move: 12"
+- Move: 10"
 - Wounds: 2
 - Defense: 3+ (6+ vs Ranged)
 - Bravery: 6
 
 Weapons:
 
-- Assault Rifle: 16"/3+/-3/Damage 2. Assault.
-- Frag Grenades: 10"/3+/-2/Damage 1D6. Target Ground, 5" Radius.
+- Assault Rifle: 16"/4+/-3/Damage 2. Assault.
+- Frag Grenades: 10"/4+/-2/Damage 1D6. Target Ground, 5" Radius.
 
 Special:
 
