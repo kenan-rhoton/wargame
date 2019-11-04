@@ -107,7 +107,7 @@ You may only take one Officer per Unit. Officers grant +1 Bravery.
 - Bannerman (10): +1 Bravery. Max 1 for every 10.
 - Musician (10): +1 to Run. Max 1 for every 10.
 - Specialist (5): Can take different weapon options.
-- Champion (25): Attacks twice. Max 1 per unit.
+- Champion (20): Attacks twice. Max 1 per unit.
 - Officer - Tactician (20): Gain a Command Point when you activate this unit.
 - Officer - Captain (20): Choose one Tactic for this unit.
 - Officer - General (30): Choose two Tactics for this unit. Max 1 per army.
@@ -159,5 +159,5 @@ Colossus (100 points)
 - All-Out Attack: Any Combat Phase. Reroll any hit rolls.
 - Volley Fire: Shooting Phase. Reroll any hit rolls.
 - Shieldwall: Enemy Shooting Phase. Requires Large Shields or better. Soak 2.
-- Earthshatter: After ending a Run less than 1" from Enemy. Enemies within 3" take 2 Damage.
+- Earthshatter: After ending a Run less than 1" from Enemy. Enemies within 3" take a Damage 2, Explode 3 Attack.
 - Fearsome Roar: Bravery Phase. Enemies within 3" receive -2 Bravery.
