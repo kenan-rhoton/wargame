@@ -47,7 +47,7 @@ If a unit that moves began its movement within 3" of an enemy unit, this is call
 
 ### Shooting Phase
 
-The activated unit can attack with all its ranged weapons. Each weapon must be directed at a target within range that the model can see.
+The activated unit can attack with all its ranged weapons. Each weapon must be directed at a target within range that the model can see. A unit cannot draw line of sight through friendly units, and it cannot shoot at a unit that is engaged in combat with a friendly unit.
 
 #### Attacking with a weapon
 
