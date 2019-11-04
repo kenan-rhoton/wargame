@@ -53,13 +53,23 @@ The activated unit can attack with all its ranged weapons. Each weapon must be d
 
 When a unit attacks with a weapon, all models in the unit armed with that weapon attack at the same time.
 
-Roll for each model that attacks, and every roll that equals or surpasses its weapon's Hit characteristic is considered a Hit.
-Each Hit causes a number of Damage rolls equal to its weapon's Damage characteristic.
-Compare the Damage rolls to the target's Defense characteristic, subtracting from it your weapon's Penetration characteristic.
-Each Damage roll that equals or exceeds that number causes the target unit to take a Wound.
-You may join sixes rolled for damage to increase the result, so two sixes can count as a single seven, three sixes can count as a single eight, etc.
+Roll for each model that attacks, and every roll result of 4 or higher is considered a Hit. The following modifiers apply to the roll:
 
-When a unit takes Wounds, the unit's owner assigns them to any model of their choosing, but must first assign Wounds to any model that already has Wounds allocated to it. If the Wounds are enought to kill a model, remove it from play and continue assigning the rest of the Wounds to the unit.
+- The weapon is ranged and the target is at long range: -1
+- The attacking model is untrained: -1
+- The weapon is Imprecise: -1
+- The attacking model is elite: +1
+- The weapon is ranged and the target is at less than 6": +1
+- The weapon is Precise: +1
+
+For each successful Hit, a Damage Roll is made by adding a D6 to the weapon's Damage Characteristic. The Damage Roll is successful if it equals or exceeds the target's Defense value.
+
+Any sixes obtained may be rerolled, with new sixes being considered sevens. This process can be repeated for eights, nines...
+
+For each successful Damage, if the target is in Cover, make a Cover Roll. If the target is in Light Cover, any results of 3 or more are Casualties. If the target is in Heavy Cover, only results of 5 or more are Casualties.
+If the target is not in Cover, all successful Damage Rolls become Casualties.
+
+For each Casualty inflicted on the unit the defending player removes a model in the unit from the game.
 
 ### Combat Phase
 
