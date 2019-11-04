@@ -28,7 +28,7 @@ All models in a unit must take the same weapon, equipment and unit options, exce
 
 ### Special Abilities Descriptions
 
-- **Artillery**: This weapon is a separate model that must remain within 1" of its operator. A unit that fires an Artillery weapon cannot fire any other weapons in that Shooting Phase.
+- **Artillery**: This weapon is a separate model that must remain within 1" of its operator. A unit that fires an Artillery weapon cannot fire any other weapons in that Shooting Phase. Artillery cannot be fired after Moving.
 - **Assault**: This weapon can be used in the Shooting Phase even if the unit Ran in the previous Movement Phase.
 - **Break**: In the Bravery Phase, subtract from a unit's Bravery the highest Break value from weapons that have successfully damaged it.
 - **Built-in**: This weapon is considered to be part of another weapon, and it may be used together with that weapon if it's equipped.
@@ -41,7 +41,7 @@ All models in a unit must take the same weapon, equipment and unit options, exce
 - **Precise**: +1 to hit with this weapon
 - **Sidearm**: A unit may switch to this weapon for free at the start of any phase, both on their activation or on an enemy activation.
 - **Target Ground**: Instead of a visible unit within range, the weapon targets a visible point on the battlefield, and any units within the Radius distance from the selected point suffer the effects of the attack. Roll separately for each unit.
-- **Target Model**: This weapon can target a visible model within range instead of a visible unit. Allocate any wounds inflicted to the selected model. Any wounds that exceed the model's Wounds characteristic are lost.
+- **Target Model**: This weapon can target a visible model within range instead of a visible unit.
 
 #### Melee (Hands/Range/Damage/Special Abilities)
 
@@ -67,15 +67,19 @@ All models in a unit must take the same weapon, equipment and unit options, exce
 - Longbow (2): 2H/24"/1/-
 - Heavy Javelin (3): 1H/10"/1/Break 1. Assault. Combat Ready.
 - Crossbow (4): 2H/16"/2/-
-- Pistol (8): 1H/10"/2/Burst 2.
+- Pistol (8): 1H/10"/2/Burst 2. Sidearm.
 - Rifle (10): 2H/16"/3/Precise. Overwatch
 - Repeater Gun (11): 2H/20"/3/Burst 4.
 - Handcannon (12): 2H/16"/4/Imprecise. Explode 3.
 - Frag Grenades (13): 1H/10"/3/Imprecise. Explode 1D6. Target Ground, 3" Radius.
 - Sniper Rifle (14): 2H/24"/3/Precise. Long Range. Target Model.
 - Assault Rifle (15): 2H/16"/3/Burst 2, Assault.
+- Catapult (15): 2H/24"/4/Explode 1D6. Target Ground, 3" Radius. Artillery.
 - Rocket Launcher (17): 2H/20"/5/Imprecise. Explode 2D6. Loses Imprecise vs 10+ models or Colossus.
-- Catapult (30): 2H/24"/4/Explode 2D6. Target Ground, 3" Radius. Artillery.
+- Light Machinegun (20): 2H/20"/4/Burst 6. Artillery.
+- Blaster Pistol (22): 1H/10"/4/Burst 2. Sidearm.
+- Heavy Machinegun (25): 2H/30"/5/Burst 6. Artillery.
+- Blaster Rifle (22): 2H/16"/5/Precise. Overwatch.
 
 ### Attribute Options
 
