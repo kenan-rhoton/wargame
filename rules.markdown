@@ -59,6 +59,7 @@ Roll for each model that attacks, and every roll result of 4 or higher is consid
 - The attacking model is untrained: -1
 - The weapon is Imprecise: -1
 - The attacking model is elite: +1
+- The attacking model did not move this turn: +1
 - The weapon is ranged and the target is at less than 6": +1
 - The weapon is Precise: +1
 
