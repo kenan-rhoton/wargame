@@ -1,4 +1,4 @@
-# Wargame, version 2
+# Wargame, version 3
 
 [Current version](rules.markdown)
 
@@ -6,7 +6,15 @@
 
 [Test Scenario](scenarios/test.markdown)
 
-[Version 2 Sample Lists](ListsV2/index.md)
+[Version 3 Sample Lists](ListsV3/index.md)
+
+## Version 3, "A simple plan"
+
+**Goals**:
+
+1. Go back to very basic ideas, and create a solid foundation to build upon
+2. Make games take less than an hour and be more fluid
+3. List building should be almost trivial once you know what you want
 
 ## Version 2, "A time for war"
 
