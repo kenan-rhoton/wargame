@@ -4,6 +4,8 @@
 
 [Unit Builder](unit-builder.markdown)
 
+[Test Scenario](scenarios/test.markdown)
+
 [Version 2 Sample Lists](ListsV2/index.md)
 
 ## Version 2, "A time for war"
