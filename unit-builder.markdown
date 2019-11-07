@@ -8,7 +8,6 @@ To build a list, simply choose five units and start playing!
 
 - Size: 10
 - Move: 6"
-- Bravery: 5
 - Save: 4+
 - Attacks: 1/4+ (Melee)
 
@@ -16,7 +15,6 @@ To build a list, simply choose five units and start playing!
 
 - Size: 6
 - Move: 12"
-- Bravery: 5
 - Hit: 4+
 - Save: 4+
 - Attacks: 1/4+ (Melee)
@@ -26,7 +24,6 @@ To build a list, simply choose five units and start playing!
 
 - Size: 1
 - Move: 10"
-- Bravery: 10
 - Save: 2+
 - Attacks: 8/3+ (Melee)
 
@@ -34,7 +31,6 @@ To build a list, simply choose five units and start playing!
 
 - Size: 1
 - Move: 4"
-- Bravery: 10
 - Save: 3+
 - Attacks: 4/4+ (8")
 

@@ -16,7 +16,6 @@ From then on, players will alternate activating units as follows:
 
 1. Fatigue Check
 2. Action Phase
-3. Battleshock Phase
 
 This continues until the requirements to end the Scenario are met and the result of the game is then obtained.
 
@@ -65,8 +64,10 @@ Attacking a unit in Soft Cover provides a penalization of -1 to hit it. A unit i
 
 #### Combat
 
-In combat, after the attacking unit's attacks have resolved, the defender gets to retaliate by making a small 3" move and attacking back.
+In combat, after the attacking unit's attacks have resolved, the defender (or defenders) gets to retaliate by making a small 3" move and attacking back.
 
-### Bravery Phase
+The side that lost the most models (or was destroyed) is the Loser and the side that lost the least (or the only one left surviving) is the Winner. If both sides lost equal amounts, and neither side was completely destroyed, repeat the combat.
 
-Any units that suffered casualties this activation must make a Bravery Test. To do so, roll 1D6 and add the number of casualties suffered. If the total is greater than the Bravery characteristic of the unit, a number of models equal to the difference flee. Remove those models.
+The side that Lost must make a 3" retreat move directly away from the Winning side, making sure any models in their units are at least 3" away from the Winning side. Any models that cannot achieve this are slain.
+
+If one side was completely destroyed, the Winning side may Seize Ground by making a 3" move in any direction.
