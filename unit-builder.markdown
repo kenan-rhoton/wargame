@@ -15,7 +15,6 @@ To build a list, simply choose five units and start playing!
 
 - Size: 6
 - Move: 12"
-- Hit: 4+
 - Save: 4+
 - Attacks: 1/4+ (Melee)
 - Special: Double attacks on a charge
