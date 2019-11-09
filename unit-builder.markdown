@@ -1,46 +1,45 @@
-# Wargame
+# Wargame Units
 
-To build a list, simply choose five units and start playing!
+## Experience
 
-## Basic Units
+- Recruit (1): Panic test 4+
+- Soldier (2): Panic test 3+
+- Veteran (3): Panic test 2+
+- Elite (5): Immune to panic
 
-### Infantry
+## Class
 
-- Size: 10
-- Move: 6"
-- Save: 4+
-- Attacks: 1/4+ (Melee)
+- Infantry (0): Move 6"
+- Cavalry (5): Move 12", No Cover Benefit, Charge (Entering Combat triggers Panic Test within 6")
 
-### Cavalry
+## Protection
 
-- Size: 6
-- Move: 12"
-- Save: 4+
-- Attacks: 1/4+ (Melee)
-- Special: Double attacks on a charge
+- Medium (0): No change
+- Light (1): 150% Move, -1 to Saves
+- Heavy (2): 50% Move, Reroll Failed Saves
 
-### Colossus
+## Weapons
 
-- Size: 1
-- Move: 10"
-- Save: 2+
-- Attacks: 8/3+ (Melee)
+Strength:
+- Simple (1): 1 Attack
+- Deadly (2) 2 Attack
+- Lethal (3): 3 Attack
 
-### Artillery
+Range (Melee/1"-6"/6"-12"/12"-18"/18"-24"/24"-36"):
+- Melee (0): M+0/-
+- Close (1): M-1/6+0/12-1/-
+- Assault (2): M-/6-1/12+0/18-1/-
+- Far (3): 6-/12-1/18+0/24+0/36-1
 
-- Size: 1
-- Move: 4"
-- Save: 3+
-- Attacks: 4/4+ (8")
+## Specialization
 
-### Modifiers
+At most 3 of a single Specialization.
 
-They follow a `Type - Name` structure. You cannot pick more than one modifier of the same Type.
-
-- Armor - Heavy (Infantry, Cavalry, Colossus): -Half Movement, Reroll Saves
-- Armor - Light (Infantry, Cavalry, Artillery): +Half Movement, -1 Save
-- Training - Untrained (Infantry): +Half Size, -1 Hit and Save, Cannot be Heavy.
-- Training - Elite (Infantry, Cavalry): -Half Size, +1 Hit, +1 Save
-- Focus - Combatant: Double attacks of Basic Weapon.
-- Focus - Skirmisher: Add a weapon with +8" Range over the Basic Weapon and same attacks.
-- Focus - Long-Range: Add a weapon with +16" Range over the Basic Weapon and same attacks. Reduce -1 to hit on Basic Weapon, and -1 to Save.
+- Assassin (3): Wounds dealt bypass Unconscious (model is Slain instead)
+- Banner (2): Reroll failed Panic tests within 6"
+- Combat (2): +1 to hit in Melee
+- Guardian (2): Engage at full Move distance. Engage as an Interrupt.
+- Medic (2): Can Heal nearby Unconscious on a 4+.
+- Musician (3): +2" on Advance within 6".
+- Skirmisher (2): Double Cover effectiveness
+- Tough (4): Takes an extra Wound to knock Unconscious.
