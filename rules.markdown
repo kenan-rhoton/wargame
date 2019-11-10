@@ -33,12 +33,12 @@ Models may form up into Teams and Teams may form into Bands (but not models into
 
 ### Unit Activation
 
-A unit may take any of the following 3 actions:
+A unit may take 2 of the following 4 actions in any combination:
 
-- Hold: Don't move but Attack with a +1 to Hit this turn.
-- Careful Move: Move from out of LoS to out of LoS without triggering Reactions.
-- Advance: Move and Shoot or Move and Combat.
-- Run: Move Double, but no Shooting.
+- Focus: Don't move but +1 to Hit on your second action this turn.
+- Move: Move up to your Move Characteristic.
+- Shoot: Attack with your Ranged Weapons.
+- Engage: Move half your normal Move into Combat (less than 1" from enemy Model) and attack with Melee Weapons.
 
 #### Moving
 
@@ -54,7 +54,7 @@ Roll for each model that attacks, and every roll result equal to 4 or higher is 
 - The attack is ranged and the target unit is Prone: -1
 - The target unit is at over half the weapon range: -1
 - The attack is melee and the target unit is Prone: +1
-- The attacking model held this turn: +1
+- The attacking model focused this turn: +1
 
 For each successful Hit, the defender makes a Save Roll. The Save Roll is successful if it equals or exceeds 4. The following modifiers apply to the roll:
 
@@ -76,9 +76,12 @@ Attacking a unit in Soft Cover provides a penalization of -1 to hit it. A unit i
 
 If a Unit the Reactive Player controls can see the Initiative Player's Activated Unit, this Unit may React. The following Reactions are possible:
 
-- Dodge: Move 2"
-- Shoot: If within range of a Ranged Weapon.
-- Engage: Move into combat if within half a Move, Attack after the unit's action.
+- Hold: Save your Reaction for the unit's next action.
+- Dodge: Move 2" in any direction.
+- Shoot: Attack with your Ranged weapons.
+- Engage: Move into Combat if within half a Move, then attack with Melee Weapons.
+
+Reactions always take place **after** the action it's Reacting to, but they must be declared before the action is resolved.
 
 ## Unit Takedown and Panic Tests
 

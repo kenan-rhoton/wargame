@@ -38,8 +38,8 @@ At most 3 of a single Specialization.
 - Assassin (3): Wounds dealt bypass Unconscious (model is Slain instead)
 - Banner (2): Reroll failed Panic tests within 6"
 - Combat (2): +1 to hit in Melee
-- Guardian (2): Engage at full Move distance. Engage as an Interrupt.
-- Medic (2): Can Heal nearby Unconscious on a 4+.
-- Musician (3): +2" on Advance within 6".
+- Guardian (2): Engage at full Move distance. Engage as an Interrupt (React before the Action).
+- Medic (2): End of activation Heal nearby Unconscious on a 4+.
+- Musician (3): +2" on Engage within 6".
 - Skirmisher (2): Double Cover effectiveness
 - Tough (4): Takes an extra Wound to knock Unconscious.
