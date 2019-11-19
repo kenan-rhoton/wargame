@@ -78,7 +78,7 @@ If a Unit the Reactive Player controls can see the Initiative Player's Activated
 
 - Hold: Save your Reaction for the unit's next action.
 - Dodge: Move 2" in any direction.
-- Shoot: Attack with your Ranged weapons.
+- Shoot: Attack with your Ranged weapons. Only roll a single die.
 - Engage: Move into Combat if within half a Move, then attack with Melee Weapons.
 
 Reactions always take place **after** the action it's Reacting to, but they must be declared before the action is resolved.
