@@ -1,6 +1,6 @@
 # Wargame, version 3
 
-[Current version](rules.markdown)
+[The rules (Version 3)](rules.markdown)
 
 [Unit Builder](unit-builder.markdown)
 
