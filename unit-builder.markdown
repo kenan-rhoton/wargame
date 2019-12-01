@@ -1,24 +1,24 @@
-# Wargame Units
+# Wargame Unit Builder (Version 3)
 
-## Experience
+## Experience (Mandatory)
 
 - Recruit (1): Panic test 4+
 - Soldier (2): Panic test 3+
 - Veteran (3): Panic test 2+
 - Elite (5): Immune to panic
 
-## Class
+## Class (Mandatory)
 
 - Infantry (0): Move 6"
 - Cavalry (5): Move 12", No Cover Benefit, Charge (Entering Combat triggers Panic Test within 6")
 
-## Protection
+## Protection (Mandatory)
 
 - Medium (0): No change
 - Light (1): 150% Move, -1 to Saves
 - Heavy (2): 50% Move, Reroll Failed Saves
 
-## Weapons
+## Weapons (Optional)
 
 Strength:
 - Simple (1): 1 Attack
@@ -31,7 +31,7 @@ Range (Melee/1"-6"/6"-12"/12"-18"/18"-24"/24"-36"):
 - Assault (2): M-/6-1/12+0/18-1/-
 - Far (3): 6-/12-1/18+0/24+0/36-1
 
-## Specialization
+## Specialization (Optional)
 
 At most 3 of a single Specialization.
 
