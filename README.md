@@ -1,12 +1,12 @@
-# Wargame, version 3
+# Wargame, version 4
 
-[The rules (Version 3)](rules.markdown)
+[The rules (Version 4)](rules.markdown)
 
-[Unit Builder (Version 3)](unit-builder.markdown)
+[Unit Builder (Version 4)](unit-builder.markdown)
 
 [Test Scenario](scenarios/test.markdown)
 
-[Version 3 Sample Lists](ListsV3/index.md)
+[Version 4 Sample Lists](ListsV4/index.md)
 
 ## Version 3, "A simple plan"
 

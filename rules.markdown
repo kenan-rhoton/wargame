@@ -1,90 +1,184 @@
-# Wargame (Version 3)
+# Wargame (Version 4)
+
+1. Input randomness (no rolls to hit or damage)
+2. Balanced
+3. Varied list-building (many options both in size and type of soldiers)
+4. Focus on skirmish but scalable to battles (as few as 3, as many as 100 miniatures per side)
+5. Varied objectives
 
 ## Rules
 
-The first thing you do is agree to a Scenario. A Scenario is simply a set of indications that explain all of the following things:
+### Setup
 
-1. What size the battleground will be, usually a 48" by 36" rectangle.
-2. How terrain will be set up
-3. How the units will be deployed
-4. What the victory conditions are
+1. Terrain is set up
+2. Scenario objectives and deployment are rolled
+3. Soldiers are mustered
+4. Soldiers are deployed
 
-Once you have followed all the Scenario rules and all the units have been deployed, the players roll off for initiative, with the winner choosing to either Take the Initiative or Give Up the Initiative to the other player. The player that doesn't have the Initiative is the Reactive Player.
+### Rounds
 
-From then on, a round functions as follows:
+A Round has two phases: the Oracle Phase and the Action Phase.
+During the Oracle Phase, many dice are rolled, providing an Action Pool which will be used in the Action Phase.
 
-1. Player with initiative activates all his units and the Reactive Player may respond.
-2. Once the Initiative Player has finished activating all his units, the Reactive Player takes the initative and repeats Step 1.
-3. Once the second Player has finished activating all his units, the Round ends and a new Round begins, with the first Player having Initiative again.
+### Oracle Phase
 
-This continues until the requirements to end the Scenario are met and the result of the game is then obtained.
+Each player rolls a number of dice equal to the added Initiative value of all their soldiers.
+He may then use any skills that affect the Action Dice Roll to modify them.
 
-### Units: Models, Teams and Bands
+Set the dice apart, each player with his own: these dice will be used in the Action Phase.
 
-Most Units are just single models. Models, however, may be joined into Teams and Bands, allowing for some advantages and disadvantages.
+### Action Phase
 
-Teams are small groups of no more than 5 models, which Activate and React together and only provoke a single Reaction. You must designate a Team Leader for such a group, and all members of the group must be within 8" of the Leader at all times. All members of a Team must always take the exact same action and reaction if possible. Any members that can't take the selected action or reaction will simply attempt to remain in cohesion.
+Players alternate activating soldiers by using the die corresponding to their Type. They may additionally use other dice to activate certain skills, up to their Initiative value. Once activated, leave a die next to them signaling that they have already been activated.
 
-A Band is a larger group of 6-20 models, which acts just like a Team except that each model must always remain within 1" of another model from the unit, without allowing for any gaps greater than 1", and every model in the unit must be identical except for the Band Leader, which may be different.
+Once a player has either run out of Action Dice, or all his soldiers have already been activated, 
 
-Bands may break up into Teams and Teams may break into individual models (but not Bands into models) at the beginning of their owner's Initiative Turn.
+### Activations
 
-Models may form up into Teams and Teams may form into Bands (but not models into Bands) at the beginning of their owner's Initiative Turn if all the models or Teams involved are in the necessary cohesion to become a Team or Band at that point.
+During any soldier's activation, you may take the following actions for free and in any order:
 
-### Unit Activation
+1. Move up to their Speed in inches
+2. Interact with an Object
+3. Strike at an enemy soldier within your threat range
 
-A unit may take 2 of the following 4 actions in any combination:
+Additionally, you may use Action Dice to activate any of their Skills, as specified in the soldier's description.
 
-- Focus: Don't move but +1 to Hit on your second action this turn.
-- Move: Move up to your Move Characteristic.
-- Shoot: Attack with your Ranged Weapons.
-- Engage: Move half your normal Move into Combat (less than 1" from enemy Model) and attack with Melee Weapons.
+### Soldier Types
+
+1. Command: Rally troops, give orders, often have Action Dice modification skills
+2. Assault: Kill things in melee, quick movement, shock tactics
+3. Artillery: Strike from afar, establish a good position, covering fire
+4. Heavy: Hold ground, Resist damage
+5. Skirmish: hit & run, move around unseen
+6. Support: Heal, movement shenanigans, all sorts of non-combat benefits
+
+### Threat Ranges
+
+This is a soldier's threat range within which it may Strike.
+
+1. Melee - 1"
+2. Close - 3"
+3. Assault - 6"
+4. Medium - 12"
+5. Far - 18"
+6. Full - Line of Sight
+
+### Strike
+
+During a soldier's activation, the soldier may declare a Strike. To do so, select an enemy model visible and within Threat range, and count all alied soldiers that have it visible and within threat range, ignoring the first allied model the enemy is obscured to and the first two allied models the enemy is in cover from.
+
+If the amount of allied models counted is equal or greater than the enemy model's Toughness, that enemy model is removed from play.
+
+Allied models with the Deadly rule count for two models for this rule, and allied models with the Lethal rule count for three.
+
+
+## Rules
+
+### The Basic Check
+
+You roll 2D6, adding the necessary stat to the roll. You need to beat the specified difficulty.
+
+Note how much you beat the roll for or how much you failed by. This is called your Advantage/Disadvantage.
+
+### Opposed Check
+
+You and your opponent roll 2D6, adding the necessary stat to the roll. You need to beat his roll.
+
+Note how much you beat the roll for or how much you failed by. This is called your Advantage/Disadvantage.
+
+### Setup
+
+Play on a 36"x36" (90cmx90cm) surface. Add abundant terrain and choose 3 terrain pieces to be objectives. Play for four rounds and tally kills. Each kill is worth one victory point, and holding an objective at the end of the game is worth 3 for each.
+
+### Play
+
+Players take turns activating models. Each model gets three actions when activated. The following actions are possible:
+
+- Move
+- Shoot
+- Charge
+- Recover (2 Actions)
 
 #### Moving
 
-A unit may choose to move up to its move characteristic in any direction, both horizontally and vertically.
+A model may move a number of inches equal to 4 + its Move characteristic.
 
-#### Attacking
+#### Shoot
 
-When a unit attacks, all models in range of the target attack at the same time. For a melee attack, a model is in range if it's within 1" of any models from the target unit. For a ranged attack, a model is in range if it has line of sight to any models from the target unit within the weapon's range. A model cannot draw line of sight through other friendly units but may draw it across his own unit or other enemy units.
+A model may attack with its shooting weapons at an enemy model in line of sight and range. Line of sight may not be drawn through friendly units.
 
-Roll for each model that attacks, and every roll result equal to 4 or higher is a Hit. The following modifiers apply to the roll:
+#### Charge
 
-- The attack is ranged and the target unit is in any cover: -1
-- The attack is ranged and the target unit is Prone: -1
-- The target unit is at over half the weapon range: -1
-- The attack is melee and the target unit is Prone: +1
-- The attacking model focused this turn: +1
+Move 2D6" and fight.
 
-For each successful Hit, the defender makes a Save Roll. The Save Roll is successful if it equals or exceeds 4. The following modifiers apply to the roll:
+#### Recover
 
-- The target unit is in Combat with additional units: -1
-- The attack is ranged and the target unit is in Hard Cover: +1
-- The target unit is Heavy: Reroll any failures.
+Roll Skill vs 7. If you beat it, lose one status effect of your choosing.
 
-For each failed Save Roll, the defender must choose a model from the Unit to suffer a Takedown
+### Combat
 
-#### Cover
+Skill vs Skill (melee) or Skill vs Speed. If successful, it's called a Hit. On Hit, roll Damage vs Armor. On a success, the target is Wounded. With Advantage 3 the target is killed.
 
-A unit is in cover if no models from it have more than 50% of their base visible from the attacking unit.
-A unit may be in Soft Cover or Hard Cover.
+In melee, if a Hit was scored, the target is driven back 1". Otherwise, the attacker is driven back 1".
 
-Soft Cover refers to bushes, trees, and fences, while Hard Cover refers to walls, buildings and hills.
-Attacking a unit in Soft Cover provides a penalization of -1 to hit it. A unit in Hard Cover additionally obtains +1 to any Saves.
+### Status Effects
 
-### Unit Reactions
+- Wounded: A Wounded fighter suffers -1 to all Stats until healed.
+- Staggered: A Staggered fighter is unable to move or use a Shield.
+- Stunned: A Stunned fighter suffers -3 Skill.
 
-If a Unit the Reactive Player controls can see the Initiative Player's Activated Unit, this Unit may React. The following Reactions are possible:
+## Building fighters
 
-- Hold: Save your Reaction for the unit's next action.
-- Dodge: Move 2" in any direction.
-- Shoot: Attack with your Ranged weapons. Only roll a single die.
-- Engage: Move into Combat if within half a Move, then attack with Melee Weapons.
+A fighter has three stats: Skill, Speed and Armor.
+Assign 1, 2 and 3 to each of the stats in any order.
+A fighter also has a Role.
 
-Reactions always take place **after** the action it's Reacting to, but they must be declared before the action is resolved.
+### Roles
 
-## Unit Takedown and Panic Tests
+- Assault
+- Brute
+- Champion: +1 to all stats
+- Duelist: Free attack on a drawn melee check except vs Duelist
+- Earthshaper: may use Break (3 actions)
+- Follower: -
+- Guardian: +2 Armor to himself and allies within 2"
+- Hunter
+- Sniper
 
-When a model fails its Save Roll, it suffers a Takedown and is knocked Prone and Unconscious. Then, if the model is in a Team or Band, its Leader must make a Panic Test. Additionally, every other unit within 6" of the model that suffered a Takedown must make a Panic Test.
+### Upgrades
 
-Units that fail a Panic Test must move up to 3" to improve their Cover from the attacking unit or, if they are already in Cover and can't improve it with the move, they fall Prone. Units that are in Combat instead receive a -1 to Hit until their next turn.
+Sword:
+- One-handed, Damage 2
+- Follow-up: If your first attack this action is a draw, you may immediately attack again for free with +1.
+
+Longsword:
+- Two-handed, Damage 3
+- True time: If you defend a hit successfully in melee with advantage 2, get a free attack.
+
+Bow:
+- Two-handed, Damage 1.
+- Ranged: You may Shoot with this weapon.
+- Aim: You may use an Aim action to add +1 to you next shot this turn.
+
+Axe:
+- One-handed, Damage 2
+- Finisher: +3 Damage vs stunned opponents.
+- Hook: you may attack at -2 to Hit. If you still Hit, the opponent is Staggered.
+
+Longaxe:
+- Two-handed, Damage 3
+- Decapitate: A Hit with Advantage 5 automatically kills the target.
+- Intimidating: You always drive the target back in melee.
+
+Mace:
+- One-handed, Damage 1.
+- Crushing: A hit with Advantage 3 stuns.
+
+Maul:
+- Two-handed, Damage 2.
+- Heavy: Reduce opponent's Armor to 2 if higher.
+- Blow Away: Attack at -2. On a Hit, the target is Stunned and driven back 3".
+
+Shield:
+- One-handed, Damage 0.
+- Protective: +1 Armor while not Staggered or Stunned.
