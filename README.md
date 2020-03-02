@@ -1,8 +1,8 @@
 # Wargame, version 5
 
-[The rules (Version 4)](rules.markdown)
+[The rules (Version 5)](rules.markdown)
 
-[Unit Builder (Version 4)](unit-builder.markdown)
+[Army Builder (Version 5)](unit-builder.markdown)
 
 [Test Scenario](scenarios/test.markdown)
 

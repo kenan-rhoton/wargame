@@ -1,4 +1,4 @@
-# Force Builder
+# Army Builder (Version 5)
 
 ## Army Structure
 
@@ -58,37 +58,3 @@ A Lord can choose one Resource. This enables him to access different options not
 - Gold: You may take two additional Mercenary Units. You may activate two Mercenary Units at a time.
 - Population: You may take an extra Levy.
 - Nobility: Take an extra Knight. You may not take Levies.
-
-
-The Standard Force size is 20 Units. However, that doesn't mean you will play all 20 Units in the game.
-
-A Standard game has you playing at 12 Force points, meaning you can only deploy Units with a total cost of 12 Force points in the game.
-
-To create a Unit, first choose how many Force Points it will cost. Each Force Point grants you 10 Build Points to design your Unit. It's important to make the design match the expectations that the Unit's appearance implies, so apply a WYSIMWYG (What You See Is Mostly What You Get) model to the Unit design.
-
-## Build Point Costs
-
-There are three types of costs:
-- Xp: A number followed by a single "p" means that obtaining that costs exactly that amount of points.
-- Xppl: This means "X Points Per Level", so this means that Level 1 would cost 1 point but Level 4 would cost 4 points. These Levels are always purchased sequentially.
-- Lppl: This means "Level Points Per Level", so Level 1 would cost 1 point, Level 2 would cost 1+2=3 points, Level 4 would cost 1+2+3+4=10 points, etc. These Levels are always purchased sequentially.
-
-- Unit Size: Solo (0p), Team (7p), Band (12p)
-- Inspiration: 1ppl
-- Weapon:
-	- Accuracy: 1-3 (1ppl), 4-6 (2ppl), 7 (5ppl)
-	- Range:
-		- Contact - 1" (0p)
-		- Reach - 3" (1p)
-		- Close - 6" (3p)
-		- Medium - 12" (5p)
-		- Long - 18" (8p)
-	- Power: 1-5 (Lppl)
-- Skill: 1-5 (Lppl)
-- Armor: 1-5 (Lppl)
-- Movement Speed: Slow (0p), Normal (2p), Fast (5p)
-- Traits:
-	- Fly (8p): Ignore vertical distances when moving.
-	- Stealth (5p): Can only be attacked within Close range.
-	- Swift - Team and Solo only (6p): can swap their Attack for a Move or viceversa.
-	- Huge - Solo only (9p): +2 Health, +1 Power, lose one level of Cover.
