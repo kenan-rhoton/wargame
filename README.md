@@ -1,4 +1,4 @@
-# Wargame, version 4
+# Wargame, version 5
 
 [The rules (Version 4)](rules.markdown)
 
@@ -6,7 +6,18 @@
 
 [Test Scenario](scenarios/test.markdown)
 
-[Version 4 Sample Lists](ListsV4/index.md)
+[Version 5 Sample Lists](ListsV5/index.md)
+
+## Version 5
+
+**Goals**:
+
+1. Version 4 sucked so much I had to skip it
+2. Simplify Army Building
+3. Simplify Unit selection
+4. Focus on a good but exciting gameplay
+5. Give enough customization to make mirror matchups very unlikely
+6. Focus on semi-historical armies functioning, leave magic for later
 
 ## Version 3, "A simple plan"
 

@@ -1,5 +1,52 @@
 # The Great Reference
 
+## Matchups
+
+### 10 Irondrakes vs Grey Knight:
+
+1. Open terrain, max range: Irondrakes
+2. Open terrain, medium range: 50/50
+3. Open terrain, close quarters: GK
+4. Light cover, max range: 50/50
+5. Light cover, medium range: GK
+6. Light cover, close quarters: GK
+7. Heavy cover, max range: GK
+8. Heavy cover, medium range: GK
+9. Heavy cover, close quarters: GK
+
+Equipment:
+- Irondrakes: Numbers advantage, formation, sturdiness, heavy armor and blackpowder guns
+- Grey Knight: Power armor, rapidfire advanced weaponry, devastating melee weapons, elite training
+
+Deciding factors:
+- Irondrake weapons are weaker and more affected by cover
+- Grey Knight has much better armor
+- Grey Knight has better melee training and weaponry
+
+### 10 Irondrakes vs 10 Ironbreakers
+
+1. Open terrain, max range: Irondrakes
+2. Open terrain, medium range: Irondrakes
+3. Open terrain, close quarters: Ironbreakers
+4. Light cover, max range: Irondrakes
+5. Light cover, medium range: 50/50
+6. Light cover, close quarters: Ironbreakers
+7. Heavy cover, max range: 50/50
+8. Heavy cover, medium range: Ironbreakers
+9. Heavy cover, close quarters: Ironbreakers
+
+Equipment:
+- Irondrakes: formation, sturdiness, heavy armor and blackpowder guns
+- Ironbreakers: Same but shields and melee weapons instead of guns
+
+Deciding factors:
+- Ironbreakers win in close quarters, but they need to get their
+- Shields alone are not enough, they need the benefit of cover to really arrive in enough numbers
+- It's a matter of whether the Ironbreakers can reach the drakes in time
+
+
+
+
 - Legend: 4 Enhancements, Skill 4
 - Champion: 3 Enhancements, Skill 3
 - Warrior: 2 Enhancements, Skill 2
