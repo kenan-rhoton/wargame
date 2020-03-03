@@ -8,7 +8,7 @@
 
 [Version 5 Sample Lists](ListsV5/index.md)
 
-## Version 5
+## Version 5, "Lords of War"
 
 **Goals**:
 
