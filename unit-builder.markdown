@@ -55,6 +55,6 @@ A Lord can choose one Resource. This enables him to access different options not
 - Iron: Troops may be any Heavy Infantry or Heavy Cavalry Combat. Levies may be Heavy Infantry Combat or Skirmish.
 - Horses: No reduced size for non-Mercenary mounted units.
 - Gunpowder: Lords and Knights may be Artillery. Levies may be Light Cavalry Artillery. Troops may be Heavy Infantry Artillery. Light Infantry Artillery Troops fire at no penalty.
-- Gold: You may take two additional Mercenary Units. You may activate two Mercenary Units at a time.
+- Gold: You may take two additional Mercenary Units.
 - Population: You may take an extra Levy.
 - Nobility: Take an extra Knight. You may not take Levies.
