@@ -11,10 +11,11 @@ A Turn consists of the following steps:
 
 1. Check if all your Units have activation tokens. If they do, remove all of them.
 2. Activate a Unit that doesn't have an activation token.
-	1. If the Unit is in Combat (within 1" of enemies), it may Retreat or Fight. Then its turn ends.
-	2. If a Unit is not in Combat, it may Shoot, Advance, Charge or Hold.
-	3. After it has taken its action, place an activation token next to it.
-3. If the Unit is a Lord or Knight, check the Chain of Command for additional bonus activations.
+	1. If the Unit is a Lord or Knight, check the Chain of Command for additional bonus activations to take after its activation finishes.
+	2. If the Unit is in Combat (within 1" of enemies), it may Retreat or Fight. Then its turn ends.
+	3. If a Unit is not in Combat, it may Shoot, Advance, Charge or Hold.
+	4. After it has taken its action, place an activation token next to it.
+	5. Finally, any Unit that took any casualties must make a Bravery check. Remove models from the unit equal to the failure level.
 
 ### Retreat
 
@@ -22,11 +23,11 @@ A Unit in combat may Retreat. To do so, move its Movement + D6 away from any ene
 
 ### Fight
 
-To Fight, both players roll dice equal to the number of models in their Unit. Any successes are Hits. Then each player rolls dice equal to their opponent's Hits. Any failures become Casualties. Remove that many models from the Unit.
+To Fight, both players roll their Quality and their Numbers Advantage. Numbers Advantage is a d8 for equal numbers, d6/d10 for less/more, and d4/d12 for half/double. If the attacker exceeds the defender's roll, inflict casualties equal to the difference.
 
 ### Shoot
 
-To Shoot, resolve as in a Fight, but the target Unit does not roll Hits if it can't Shoot at that distance.
+To Shoot, resolve as in a Fight, but the target Unit does not roll Hits if it can't Shoot at that distance. You can't Shoot at a Unit in Combat.
 
 ### Advance
 
@@ -47,7 +48,7 @@ After you activate a Lord or Knight, you might get to activate other Units. Nomi
 The Chain of Command is as follows:
 
 - The Lord Commands the Knights and Levies.
-- The Knights command their own personal Troops.
+- The Knights Command their own personal Troops.
 
 ## Joining a Unit
 
@@ -59,6 +60,8 @@ So a Knight may Join his own Troops, and a Lord may Join Levies or Troops if one
 When a Unit is Joined at any time except deployment, it gains an Activation Token if it didn't have any.
 
 When you activate a Unit that contains a Joined Knight or Lord, they activate together and take the exact same actions.
+
+A Unit that has been joined by a Lord or Knight uses its highest Bravery available and its lowest Quality available.
 
 ## Leaving a Unit
 

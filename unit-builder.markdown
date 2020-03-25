@@ -23,11 +23,11 @@ Levies are the men conscripted by the Lord. They are represented by units of 10 
 
 ### Quality
 
-- Lord: 3+ Quality, Bravery 8
-- Knight: 2+ Quality, Bravery 8
-- Troop: 3+ Quality, Bravery 7
-- Mercenary: 3+ Quality, Bravery 5
-- Levies: 4+ Quality, Bravery 6
+- Lord: d8 Quality, Bravery 8
+- Knight: d10 Quality, Bravery 8
+- Troop: d8 Quality, Bravery 7
+- Mercenary: d8 Quality, Bravery 5
+- Levies: d6 Quality, Bravery 6
 
 ### Characteristics
 
@@ -37,8 +37,8 @@ Levies are the men conscripted by the Lord. They are represented by units of 10 
 - Heavy Cavalry: Move 8", Reroll failed Defenses, Can't traverse difficult terrain
 
 - Combat: Melee at Quality Level, no Ranged.
-- Skirmish: Melee at -1, Ranged 8" at -2.
-- Artillery: Melee at -2, Ranged 16" at -1.
+- Skirmish: Melee at -1 Quality, Ranged 8" at -2 Quality.
+- Artillery: Melee at -2 Quality, Ranged 16" at -1 Quality.
 
 ### Options
 
@@ -54,7 +54,7 @@ A Lord can choose one Resource. This enables him to access different options not
 
 - Iron: Troops may be any Heavy Infantry or Heavy Cavalry Combat. Levies may be Heavy Infantry Combat or Skirmish.
 - Horses: No reduced size for non-Mercenary mounted units.
-- Gunpowder: Lords and Knights may be Artillery. Levies may be Light Cavalry Artillery. Troops may be Heavy Infantry Artillery. Light Infantry Artillery Troops fire at no penalty.
+- Fire: Lords and Knights may be Artillery. Levies may be Light Cavalry Artillery. Troops may be Heavy Infantry Artillery. Light Infantry Artillery Troops fire at no penalty.
 - Gold: You may take two additional Mercenary Units.
 - Population: You may take an extra Levy.
 - Nobility: Take an extra Knight. You may not take Levies.
