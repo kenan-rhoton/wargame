@@ -23,18 +23,18 @@ Levies are the men conscripted by the Lord. They are represented by units of 10 
 
 ### Quality
 
-- Lord: d8 Quality, Bravery 8
-- Knight: d10 Quality, Bravery 8
-- Troop: d8 Quality, Bravery 7
-- Mercenary: d8 Quality, Bravery 5
-- Levies: d6 Quality, Bravery 6
+- Lord: d8 Quality, Bravery d12
+- Knight: d10 Quality, Bravery d10
+- Troop: d8 Quality, Bravery d8
+- Mercenary: d8 Quality, Bravery d4
+- Levies: d6 Quality, Bravery d6
 
 ### Characteristics
 
 - Light Infantry: Move 6"
-- Heavy Infantry: Move 4", Reroll failed Defenses
+- Heavy Infantry: Move 4", +1 Quality on Defense
 - Light Cavalry: Move 12", Can't traverse difficult terrain
-- Heavy Cavalry: Move 8", Reroll failed Defenses, Can't traverse difficult terrain
+- Heavy Cavalry: Move 8, +1 Quality on Defense, Can't traverse difficult terrain
 
 - Combat: Melee at Quality Level, no Ranged.
 - Skirmish: Melee at -1 Quality, Ranged 8" at -2 Quality.

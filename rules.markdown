@@ -15,7 +15,7 @@ A Turn consists of the following steps:
 	2. If the Unit is in Combat (within 1" of enemies), it may Retreat or Fight. Then its turn ends.
 	3. If a Unit is not in Combat, it may Shoot, Advance, Charge or Hold.
 	4. After it has taken its action, place an activation token next to it.
-	5. Finally, any Unit that took any casualties must make a Bravery check. Remove models from the unit equal to the failure level.
+	5. Finally, any Unit that took any casualties must make a Bravery check. If the result is lower than the casualties suffered, remove models equal to the difference.
 
 ### Retreat
 
