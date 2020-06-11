@@ -9,7 +9,7 @@ A Scenario will tell you what the deployment areas and victory conditions are. T
 Turns alternate between the players.
 A Turn consists of the following steps:
 
-1. Check if all your Units have activation tokens. If they do, remove all of them.
+1. Check if all your Units have activation tokens. If they do, remove all of them, this is called Rallying.
 2. Activate a Unit that doesn't have an activation token.
 	1. If the Unit is a Lord or Knight, check the Chain of Command for additional bonus activations to take after its activation finishes.
 	2. If the Unit is in Combat (within 1" of enemies), it may Retreat or Fight. Then its turn ends.
