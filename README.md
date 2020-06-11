@@ -4,7 +4,7 @@
 
 [Army Builder (Version 5)](unit-builder.markdown)
 
-[Test Scenario: King of the Hill (Version 5)](scenarios/test.markdown)
+[Test Scenario: King of the Hill (Version 5)](scenarios/koth.markdown)
 
 [Version 5 Sample Lists](ListsV5/index.md)
 
