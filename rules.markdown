@@ -23,7 +23,7 @@ A Unit in combat may Retreat. To do so, move its Movement + D6 away from any ene
 
 ### Fight
 
-To Fight, both players roll their Quality and their Numbers Advantage, and take the **highest** result. Numbers Advantage is a d8 for equal numbers, d6/d10 for less/more, and d4/d12 for half/double. If the attacker exceeds the defender's roll, inflict casualties equal to the difference. Otherwise, the defender inflicts casualties equal to the difference.
+To Fight, a Unit must be within 1" of the target Unit, both players roll their Quality and their Numbers Advantage, and take the **highest** result. Numbers Advantage is a d8 for equal numbers, d6/d10 for less/more, and d4/d12 for half/double. If the attacker exceeds the defender's roll, inflict casualties equal to the difference. Otherwise, the defender inflicts casualties equal to the difference.
 
 ### Shoot
 
