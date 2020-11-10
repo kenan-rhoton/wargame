@@ -66,3 +66,10 @@ A Unit that has been joined by a Lord or Knight uses its highest Bravery availab
 ## Leaving a Unit
 
 When activating a Unit containing a Lord or Knight, you may choose for that Lord or Knight to Leave the Unit. If you do so, activate the Lord or Knight instead and it must end its activation further than 1" from the Unit.
+
+## Quality modifiers
+
+Upgrading the Quality level (represented as +1 Quality) means improving the Quality die for a unit.
+Quality dice are improved like this:
+
+d4 -> d6 -> d8 -> d10 -> d12
