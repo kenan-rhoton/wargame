@@ -1,12 +1,28 @@
-# Wargame, version 5
+# Wargame, version 6
 
-[The rules (Version 5)](rules.markdown)
+[Las reglas (Version 6)](rules.markdown)
 
-[Army Builder (Version 5)](unit-builder.markdown)
+[Construir una banda (Version 6)](unit-builder.markdown)
 
-[Test Scenario: King of the Hill (Version 5)](scenarios/koth.markdown)
+[Escenario de prueba: Mensajero (Version 6)](scenarios/mensajero.markdown)
 
-[Version 5 Sample Lists](ListsV5/index.md)
+[Escenario de prueba: Rodeados (Version 6)](scenarios/rodeados.markdown)
+
+[Escenario de prueba: Tierra santa (Version 6)](scenarios/tierrasanta.markdown)
+
+[Listas de ejemplo](ListsV6/index.md)
+
+## Version 6, "Cinemática"
+
+**Objetivos**:
+
+1. Ahora en castellano!
+2. Centímetros como buen cristiano
+3. Recopilación de lo que ha funcionado, descarte del resto
+4. Simplificación masiva
+5. Vuelta al sistema de puntos para construir bandas
+6. Promover bandas de élite (menos de 6 modelos) y hordas (más de 15)
+7. (Próximamente) Expandir con nuevas habilidades y reglas (y posibles reequilibrios) tras unas semanas de pruebas
 
 ## Version 5, "Lords of War"
 

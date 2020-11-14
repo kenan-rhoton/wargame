@@ -1,60 +1,85 @@
-# Army Builder (Version 5)
+# Construir una banda (Version 6)
 
-## Army Structure
+Una banda consta de un máximo de 20 combatientes con un valor máximo de 30 puntos siguiendo las reglas que se encuentran a continuación.
 
-Each Lord can bring 2 Knights, 1 Levies and 0-2 Mercenaries.
-Each Knight can bring 2 Troops.
+Una banda debe contener al menos un Oficial.
 
-Units have a Class, Type and Focus.
+Cada combatiente tiene un valor de puntos en función del número de habilidades que tiene disponibles:
 
-- Classes: Infantry or Cavalry.
-- Types: Light or Heavy.
-- Focus: Combat, Skirmish or Artillery.
+- Morralla: 1 punto. 2 habilidades.
+- Guerrero: 3 puntos. 4 habilidades.
+- Élite: 5 puntos. 7 habilidades.
+- Héroe: 8 puntos. 10 habilidades.
 
-Lords and Knights are Character Units. They are represented by a single model, and may join any unit of their same Class under their chain of command (so a Lord can only join a Troop if his Knight commanding that troop has also joined it).
+Algunas habilidades tienen más de un nivel (indicado con barras separadoras. Por ejemplo: Impacto +1/+2/+3).
+En ese caso, cada nivel cuesta una habilidad.
 
-Troops are the noble soldiers in service of the Knights. They are represented by units of 5 models (infantry) or 3 models (cavalry).
+Todos los combatientes tienen de forma gratuita las habilidades de Movimiento (10 cm) y Combate (Impacto y Daño +0).
 
-Mercenaries are professional soldiers working for coin. They are represented just like Troops.
+Adicionalmente, si se obtiene cualquier habilidad de Disparo, por defecto es utilizable a una distancia de 10cm.
 
-Levies are the men conscripted by the Lord. They are represented by units of 10 models (infantry) or 6 models (cavalry).
+## Lista de habilidades
 
-## Stats
+Las habilidades más complejas están descritas en la siguiente sección.
 
-### Quality
+- Combate (Destreza +1/+2/+3): +1/+2/+3 al Impacto y Defensa en Combate
+- Combate (Daño +1/+2/+3): +1/+2/+3 al Daño en Combate
+- Combate (Alcance 5cm): Permite atacar con Combate a 5cm de distancia
+- Armadura (-1/-2): Armadura -1/-2
+- Disparo (Precisión +1/+2/+3): +1/+2/+3 al Impacto en Disparo
+- Disparo (Daño +1/+2/+3): +1/+2/+3 al Daño en Disparo
+- Disparo (Alcance 20cm/30cm/50cm): Permite utilizar Disparo a la distancia indicada.
+- Tirador: +1 al Impactar y Daño con Disparo si se está Preparado.
+- Infiltración: Permite desplegar en terreno neutral.
+- Sigilo: Ver descripción.
+- Ágil: Ver descripción.
+- Carga: Ver descripción.
+- Guardia: Ver descripción.
+- Oficial: Ver descripción.
+- Montura: Ver descripción.
+- Oficial: Ver descripción.
+- Sanador: Ver descripción.
+- Ataque Sorpresa: Ver descripción.
 
-- Lord: d8 Quality, Bravery d12
-- Knight: d10 Quality, Bravery d10
-- Troop: d8 Quality, Bravery d8
-- Mercenary: d8 Quality, Bravery d4
-- Levies: d6 Quality, Bravery d6
+## Descripciones de habilidades
 
-### Characteristics
+### Sigilo
 
-- Light Infantry: Move 6"
-- Heavy Infantry: Move 4", +1 Quality on Defense
-- Light Cavalry: Move 12", Can't traverse difficult terrain
-- Heavy Cavalry: Move 8, +1 Quality on Defense, Can't traverse difficult terrain
+El combatiente empieza la partida con un marcador de Sigilo.
+Mientras tenga un marcador de Sigilo, no puede ser Atacado, pero un enemigo a menos de 20cm que lo tenga en línea de visión puede utilizar la Acción Descubrir, forzando al combatiente a realizar una tirada de Sigilo para evitar perder el marcador.
 
-- Combat: Melee at Quality Level, no Ranged.
-- Skirmish: Melee at -1 Quality, Ranged 8" at -2 Quality.
-- Artillery: Melee at -2 Quality, Ranged 16" at -1 Quality.
+Permite realizar la acción Esconderse si no hay ningún enemigo que tenga línea de visión hacia él, haciendo una tirada de Sigilo para obtener un marcador de Sigilo en caso de éxito.
 
-### Options
+### Ágil
 
-- Lord: Any except Artillery
-- Knight: Any except Artillery
-- Troop: Any Light Infantry, Heavy Infantry Combat, Any Light Cavalry
-- Mercenary: Any
-- Levies: Any Light Infantry
+No recibe daño de caída nunca. Adicionalmente, puede acabar su Fase de Movimiento en un muro, en cuyo caso está obligado a Correr como Acción. No puede terminar esta acción en un muro.
 
-## Resources
+### Carga
 
-A Lord can choose one Resource. This enables him to access different options not available to others.
+Mueve su movimiento completo al declarar un Ataque de Combate.
 
-- Iron: Troops may be any Heavy Infantry or Heavy Cavalry Combat. Levies may be Heavy Infantry Combat or Skirmish.
-- Horses: No reduced size for non-Mercenary mounted units.
-- Fire: Lords and Knights may be Artillery. Levies may be Light Cavalry Artillery. Troops may be Heavy Infantry Artillery. Light Infantry Artillery Troops fire at no penalty.
-- Gold: You may take two additional Mercenary Units.
-- Population: You may take an extra Levy.
-- Nobility: Take an extra Knight. You may not take Levies.
+### Guardia
+
+Si un oponente declara un Ataque contra un aliado a menos de 10cm, puede mover hasta 5cm. Si esto lo hace interponerse enmedio del Ataque, lo recibe él.
+
+### Oficial
+
+Permite realizar las acciones Asegurar Objetivo (necesaria en algunos Escenarios) e Inspirar (quitando un marcador de Activación de un aliado no Oficial a menos de 10cm).
+
+### Montura
+
+Da una velocidad de Movimiento de 30cm, pero no permite movimiento vertical excepto saltando obstáculos y utilizando rampas.
+
+### Tirador
+
++1 al Impactar y Daño con Disparo si se está Preparado.
+
+### Sanador
+
+Los aliados heridos a menos de 20cm obtienen un marcador de Herida en lugar de ser eliminados.
+Un combatiente con marcador de Herida es tratado a efectos prácticos como si no existiera excepto que no se puede acabar un movimiento sobre él.
+Como Acción, el combatiente con la habilidad de Sanar puede quitar el marcador de Herida de un aliado con el que esté en contacto base a base.
+
+### Ataque Sorpresa
+
++2 al Impacto en Combate contra enemigos que no tenían al combatiente en su campo de visión al inicio de la activación.

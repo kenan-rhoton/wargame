@@ -1,75 +1,58 @@
-# Wargame (Version 5)
+# Wargame (Versión 6)
 
-## Setup
+## Tiradas
 
-A Scenario will tell you what the deployment areas and victory conditions are. The Players roll off, and the winner decides whether he wants to go first or second. Whoever goes first deploys his army completely first.
+La mecánica base de tirada es sencilla: cada vez que se deba hacer una tirada, se lanzan 2 dados de 6 caras y se suman sus valores.
+Un resultado de 7 o superior significa un acierto.
+A esta tirada se le aplican los bonificadores y penalizadores pertinentes de la acción.
 
-## Turns
+## Preparación
 
-Turns alternate between the players.
-A Turn consists of the following steps:
+El Escenario identificará las áreas de despliegue y condiciones de victoria. Los jugadores tiran un dado, y el ganador decide si quiere ir primero o segundo.
 
-1. Check if all your Units have activation tokens. If they do, remove all of them, this is called Rallying.
-2. Activate a Unit that doesn't have an activation token.
-	1. If the Unit is a Lord or Knight, check the Chain of Command for additional bonus activations to take after its activation finishes.
-	2. If the Unit is in Combat (within 1" of enemies), it may Retreat or Fight. Then its turn ends.
-	3. If a Unit is not in Combat, it may Shoot, Advance, Charge or Hold.
-	4. After it has taken its action, place an activation token next to it.
-	5. Finally, any Unit that took any casualties must make a Bravery check. If the result is lower than the casualties suffered, remove models equal to the difference.
+## Ronda
 
-### Retreat
+Una Ronda consta de dos Fases: la Fase de Movimiento y la Fase de Acción.
 
-A Unit in combat may Retreat. To do so, move its Movement + D6 away from any enemies it is in combat with. It may not end within 1" of an enemy.
+### Fase de Movimiento
 
-### Fight
+Empezando por el primer jugador, los jugadores alternan muober cada modelo bajo su control hasta su movimiento máximo, sea horizontal o verticalmente, colocando un marcador de Movimiento a su lado para indicarlo. Este movimiento puede ignorar cualquier obstáculo con menos de 3cm de altura. Existe la posibilidad de decidir que un model va a Prepararse en lugar de mover. En ese caso el jugador coloca un marcador de Preparación a su lado para indicarlo.
 
-To Fight, a Unit must be within 1" of the target Unit, both players roll their Quality and their Numbers Advantage, and take the **highest** result. Numbers Advantage is a d8 for equal numbers, d6/d10 for less/more, and d4/d12 for half/double. If the attacker exceeds the defender's roll, inflict casualties equal to the difference. Otherwise, the defender inflicts casualties equal to the difference.
+### Fase de Acción
 
-### Shoot
+Empezando por el primer jugador, los jugadores alternan la posibilidad de activar modelos Preparados, quitando su marcador de Preparación y colocando un marcador de Activación.
+Si a un jugador no le quedan modelos Preparados, se salta su activación.
+Una vez no haya modelos Preparados en la mesa, se procede al mismo proceso con el resto de modelos no Preparados.
+Cuando todos los modelos en la mesa hayan activado, se procede a la siguiente ronda, siendo ahora el otro jugador quien toma el rol de primer jugador.
 
-To Shoot, resolve as in a Fight, but the attacker doesn't suffer casualties if the target can't Shoot at that distance. You can't Shoot at a Unit in Combat or if the Unit is in Combat.
+Las Acciones básicas disponibles a todos los modelos son:
+- Atacar: Con Disparo o Combate. En caso de utilizar Combate puede mover primero hasta la mitad de su movimiento.
+- Correr: Volver a mover una distancia igual a su movimiento.
 
-### Advance
+## Atacar
 
-To Advance, move a Unit a number of inches equal to its Movement in any direction.
+Para realizar un ataque, se debe elegir a un combatiente enemigo como defensor.
+El defensor debe estar dentro de la distancia de ataque (en el caso de Combate es típicamente contacto base con base y en el caso de Disparo vendrá especificado por la habilidad) y ser visible por el atacante (que haya alguna línea no obstruida entre ambas miniaturas).
 
-### Charge
+En caso de haber dudas razonables sobre la visibilidad de una miniatura, se tirará un dado de 6 caras.
+En un resultado de 4 o más, la miniatura es visible.
 
-To Charge, first declare the target of you Charge. Then move the Unit a number of inches equal to its Movement + 1D6 directly towards the target Unit. If this takes you within 1" of that Unit, you may immediately Fight.
+Los ataques se resuelven mediante tiradas de dados.
+El atacante realiza una tirada de Impacto, sumando su habilidad de Impacto en Combate o Disparo (según sea relevante) y restando la habilidad de Defensa correspondiente de su oponente.
+En caso de obtener un acierto, el atacante realiza una tirada de Daño, sumando su habilidad de Daño en Combate o Disparo y restando la habilidad de Armadura de su oponente.
+Si hiere a su oponente, este es *eliminado* a menos que tenga un Aliado con la habilidad de Sanar a menos de 20cm de distancia.
 
-### Hold
+Aparte de las habilidades que especifican un bonificador o penalizador a estas tiradas, se aplican los siguientes modificadores:
 
-A Unit that Holds takes no action.
+**Modificadores de Disparo**:
 
-## The Chain of Command
+- El defensor está a cubierto (a menos de 5cm de una pieza de escenografía que obstruye visión): -1
+- El defensor está a distancia larga (mayor de la mitad del alcance): -1
+- El defensor está a menos de 5cm de otro aliado del atacante: No se puede realizar el disparo
+- 
 
-After you activate a Lord or Knight, you might get to activate other Units. Nominate any amount of Units within 6" of where you ended the activation that are directly under them in the Chain of Command and don't have activation tokens. You may activate those Units immediately.
+**Modificadores de Combate**:
 
-The Chain of Command is as follows:
+- El defensor está a menos de 5cm de otro aliado del atacante: +1
+- El atacante está a menos de 5cm de otro aliado del defensor: -1
 
-- The Lord Commands the Knights and Levies.
-- The Knights Command their own personal Troops.
-
-## Joining a Unit
-
-A Lord or Knight may join a friendly Unit both during deployment as if during play they end their movement within 1" of that Unit.
-
-To Join a Unit, a Lord or Knight must be in Command of that Unit, and must be of the same Type (Infantry or Cavalry).
-So a Knight may Join his own Troops, and a Lord may Join Levies or Troops if one of his Knights is also Joining that Troop.
-
-When a Unit is Joined at any time except deployment, it gains an Activation Token if it didn't have any.
-
-When you activate a Unit that contains a Joined Knight or Lord, they activate together and take the exact same actions.
-
-A Unit that has been joined by a Lord or Knight uses its highest Bravery available and its lowest Quality available.
-
-## Leaving a Unit
-
-When activating a Unit containing a Lord or Knight, you may choose for that Lord or Knight to Leave the Unit. If you do so, activate the Lord or Knight instead and it must end its activation further than 1" from the Unit.
-
-## Quality modifiers
-
-Upgrading the Quality level (represented as +1 Quality) means improving the Quality die for a unit.
-Quality dice are improved like this:
-
-d4 -> d6 -> d8 -> d10 -> d12
