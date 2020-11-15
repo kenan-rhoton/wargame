@@ -8,7 +8,7 @@ A esta tirada se le aplican los bonificadores y penalizadores pertinentes de la 
 
 ## Preparación
 
-El Escenario identificará las áreas de despliegue y condiciones de victoria. Los jugadores tiran un dado, y el ganador decide si quiere ir primero o segundo.
+El Escenario identificará las áreas de despliegue y condiciones de victoria. Los jugadores tiran un dado, y el ganador elige quien será el primer jugador.
 
 ## Ronda
 
@@ -16,7 +16,10 @@ Una Ronda consta de dos Fases: la Fase de Movimiento y la Fase de Acción.
 
 ### Fase de Movimiento
 
-Empezando por el primer jugador, los jugadores alternan muober cada modelo bajo su control hasta su movimiento máximo, sea horizontal o verticalmente, colocando un marcador de Movimiento a su lado para indicarlo. Este movimiento puede ignorar cualquier obstáculo con menos de 3cm de altura. Existe la posibilidad de decidir que un model va a Prepararse en lugar de mover. En ese caso el jugador coloca un marcador de Preparación a su lado para indicarlo.
+Empezando por el primer jugador, los jugadores alternan mover cada modelo bajo su control hasta su movimiento máximo, sea horizontal o verticalmente, colocando un marcador de Movimiento a su lado para indicarlo.
+Este movimiento puede ignorar cualquier obstáculo con menos de 3cm de altura.
+Existe la posibilidad de decidir que un modelo va a Prepararse en lugar de mover.
+En ese caso el jugador coloca un marcador de Preparación a su lado para indicarlo.
 
 ### Fase de Acción
 
