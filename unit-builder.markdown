@@ -52,7 +52,7 @@ Permite realizar la acción Esconderse si no hay ningún enemigo que tenga líne
 
 ### Ágil
 
-No recibe daño de caída nunca. Adicionalmente, puede acabar su Fase de Movimiento en un muro, en cuyo caso está obligado a Correr como Acción. No puede terminar esta acción en un muro.
+No recibe daño de caída nunca. Adicionalmente, puede acabar su Fase de Movimiento en un muro sin caer, pero si termina su Fase de Acción en un muro, caerá de manera normal.
 
 ### Carga
 

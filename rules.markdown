@@ -21,6 +21,15 @@ Este movimiento puede ignorar cualquier obstáculo con menos de 3cm de altura.
 Existe la posibilidad de decidir que un modelo va a Prepararse en lugar de mover.
 En ese caso el jugador coloca un marcador de Preparación a su lado para indicarlo.
 
+#### Caída
+
+Un combatiente puede decidir caer cualquier distancia vertical durante su movimiento.
+En caso de que la distancia de caída sea superior a 5cm, debe hacer una tirada de Caída.
+Esta tirada consiste en obtener un 5 o más con dos dados, restándole 2 al resultado por cada 5cm adicionales de distancia.
+En caso de fallar la tirada, el combatiente sufre una herida, siendo *eliminado* a menos que haya un aliado con la habilidad de Sanador a menos de 20cm.
+
+Si un combatiente termina cualquier movimiento o acción en un muro o en el aire, cae automáticamente.
+
 ### Fase de Acción
 
 Empezando por el primer jugador, los jugadores alternan la posibilidad de activar modelos Preparados, quitando su marcador de Preparación y colocando un marcador de Activación.
@@ -43,7 +52,7 @@ En un resultado de 4 o más, la miniatura es visible.
 Los ataques se resuelven mediante tiradas de dados.
 El atacante realiza una tirada de Impacto, sumando su habilidad de Impacto en Combate o Disparo (según sea relevante) y restando la habilidad de Defensa correspondiente de su oponente.
 En caso de obtener un acierto, el atacante realiza una tirada de Daño, sumando su habilidad de Daño en Combate o Disparo y restando la habilidad de Armadura de su oponente.
-Si hiere a su oponente, este es *eliminado* a menos que tenga un Aliado con la habilidad de Sanar a menos de 20cm de distancia.
+Si hiere a su oponente, este es *eliminado* a menos que tenga un Aliado con la habilidad de Sanador a menos de 20cm de distancia.
 
 Aparte de las habilidades que especifican un bonificador o penalizador a estas tiradas, se aplican los siguientes modificadores:
 
