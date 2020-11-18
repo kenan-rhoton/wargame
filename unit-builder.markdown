@@ -31,6 +31,7 @@ Las habilidades más complejas están descritas en la siguiente sección.
 - Disparo (Alcance 20cm/30cm/50cm): Permite utilizar Disparo a la distancia indicada.
 - Tirador: +1 al Impactar y Daño con Disparo si se está Preparado.
 - Infiltración: Permite desplegar en terreno neutral.
+- Empujar: Ver descripción.
 - Sigilo: Ver descripción.
 - Ágil: Ver descripción.
 - Carga: Ver descripción.
@@ -42,6 +43,10 @@ Las habilidades más complejas están descritas en la siguiente sección.
 - Ataque Sorpresa: Ver descripción.
 
 ## Descripciones de habilidades
+
+### Empujar
+
+Permite realizar la acción de Empujar, idéntica a un Ataque excepto que en caso de Impactar con éxito no se realiza tirada de Daño, sino que permite mover al combatiente enemigo hasta 5cm horizontalmente.
 
 ### Sigilo
 
